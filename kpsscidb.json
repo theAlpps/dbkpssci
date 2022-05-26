@@ -1108,7 +1108,7 @@
     "optd": "Tolunoğlu Ahmet",
     "type": 1,
     "correct": 3
-  },   
+  },  
   {
     "que": "Hicaz bölgesine hakim olan ilk Türk İslam devleti aşağıdakilerden hangisidir?",
     "detail": "Hicaz bölgesine ilk hakim olan Türk devleti İhşidiler'dir. İhşidiler 935-969 arasında hüküm sürmüşlerdir. Fatımiler tarafından yıkılmışlardır.",
@@ -17494,5 +17494,1786 @@
     "optd": "Sağlık",
     "type": 3,
     "correct": 2
-  }        
+  },                    
+  {
+    "que": "'İçimizdeki Çocuk', 'Öğretmenim Bir Bakar Mısın?' eserleriyle tanınan, 16 Şubat 2021 tarihinde vefat eden yazarımız kimdir?",
+    "detail": "Bu yazar 83 yaşında hayatını kaybeden Doğan Cüceloğlu'dur. Hayat öyküsü 'İnsanı Araken Damdan Düşen Psikolog' adlı eserinden okunabilir.",
+    "opta": "Doğan Cüceloğlu",
+    "optb": "Dücane Cündioğlu",
+    "optc": "Üstün Dökmen",
+    "optd": "Ahmet Şerif İzgören",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Mersin'de düzenlenen Artistik Cimnastik Avrupa Şampiyonası'nda halka dalında altın madalya kazanan sporcumuz kimdir?",
+    "detail": "Bu sporcu aynı zamanda 2019'da halka dalında dünya şampiyonu olan İbrahim Çolak'tır.",
+    "opta": "Taha Akyol",
+    "optb": "İbrahim Çolak",
+    "optc": "Mete Gazoz",
+    "optd": "Çağlar Söğüncü",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Ölmeye yatmak', 'Fikrimin İnce Gülü', 'Bir Düğün Gecesi' romanlarıyla tanınan 14 Temmuz 2020 tarihinde vefat eden yazarımız kimdir?",
+    "detail": "Bu yazar ayrıca 'Yaz Sonu' ve 'Üç Beş Kişi' eserlerinin de yazarı Adalet Ağaoğlu'dur.",
+    "opta": "Yaşar Kemal",
+    "optb": "Orhan Asena",
+    "optc": "Adalet Ağaoğlu",
+    "optd": "Haldun Taner",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "NASA'da görev yapmış ilk Türk bilim insanı kimdir?",
+    "detail": "1926-2012 yılları arasında yaşamış Dilhan Eryurt, Ay'a iniş projesine katkıları sebebiyle Apollo Ödülü'ne layık görülmüştür. Ayrıca ODTÜ astrofizik bölümünü kurmuştur.",
+    "opta": "Aziz Sancar",
+    "optb": "Zafer Bingül",
+    "optc": "Celal Şengör",
+    "optd": "Dilhan Eryurt",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Türk tiyatrosunda sahneye çıkan ilk Müslüman kadın oyuncu kimdir?",
+    "detail": "3 Nisan 1919'da Yamalar adlı oyunda Emel karakterine hayat veren oyuncumuz Afife Jale'dir.",
+    "opta": "Afife Jale",
+    "optb": "Jale İnan",
+    "optc": "Süreyya Ağaoğlu",
+    "optd": "Bedia Muvahhit",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Türkiye'nin ilk kadın valisi kimdir?",
+    "detail": "1991-1995 yılları arasında Muğla Valiliği görevini yerine getiren Lale Aytaman, anılarını 'İğneli Koltukta Dört Buçuk Yıl' adlı eserinde toplamıştır.",
+    "opta": "Türkan Akyol",
+    "optb": "Lale Aytaman",
+    "optc": "Tansu Çiller",
+    "optd": "Filiz Dinçmen",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "İlk kadın Anayasa Mahkemesi Başkanımız kimdir?",
+    "detail": "2005-2007 yılları arasında görev yapan Tülay Tuğcu, ilk kadın anayasa mahkemesi başkanımızdır. Yerine Haşim Kılıç gelmiştir.",
+    "opta": "Filiz Dinçmen",
+    "optb": "Türkan Akyol",
+    "optc": "Lale Aytaman",
+    "optd": "Tülay Tuğcu",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Ocak 2020'de helikopter kazası sonucu hayatını kaybeden ABD'li basketbolcu kimdir?",
+    "detail": "Bu kişi 'Black Mamba' lakabıyla da bilinen Kobe Bryant'dır.",
+    "opta": "Kobe Bryant",
+    "optb": "Shaquille O'neal",
+    "optc": "Kevin Durant",
+    "optd": "LeBron James",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "20 Ocak 2020 tarihinde vefat eden TEMA vakfını kuran bilim adamımız kimdir?",
+    "detail": "Bu kişi Yalova'daki Karaca Arboretumu'nu da kuran 'Toprak Dede' lakaplı Hayrettin Karaca'dır.",
+    "opta": "Ahmet Mete Işıkara",
+    "optb": "Hayrettin Karaca",
+    "optc": "Muazzez İlmiye Çığ",
+    "optd": "Orhan Kural",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "23 Aralık 2020 tarihinde koronavirüs sebebiyle kaybettiğimiz sigara karşıtı kampanyalarıyla bilinen, İTÜ Maden Mühendisliği hocası kimdir?",
+    "detail": "Dumansız, sağlıklı bir toplum oluşturmak için hayatı boyunca birçok etkinlikte bulunan Orhan Kural hocamız aynı zamanda gezgin ve çevre aktivistidir.",
+    "opta": "Muazzez İlmiye Çığ",
+    "optb": "Halil İnalcık",
+    "optc": "Orhan Kural",
+    "optd": "Ahmet Mete Işıkara",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Covid-19 salgınının ortaya çıktığı yer hangisidir?",
+    "detail": "Covid-19 salgını Çin'in Wuhan şehrinde ortaya çıkmıştır.",
+    "opta": "Hindistan - Punjab",
+    "optb": "İspanya - Katalonya",
+    "optc": "Amerika - Florida",
+    "optd": "Çin - Wuhan",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Hollywood Şöhret Yolu'na adını yazdıran ilk Türk kimdir?",
+    "detail": "1958'de açılan, Oliver Weissmuller tarafından tasarlanan bu yolda adı yer alan ilk Türk, dünyaca ünlü kalp cerrahı Mehmet Öz'dür.",
+    "opta": "Mehmet Öz",
+    "optb": "Barış Manço",
+    "optc": "Tarkan",
+    "optd": "Cem Karaca",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Türk mühendisleri tarafından tasarlanan ilk yerli ve milli tünel açma makinesinin adı nedir?",
+    "detail": "3,25 m çapında, 92 m boyunda, 175 ton ağırlığındaki bu makinenin adı 'Lale' dir.",
+    "opta": "Şahmeran",
+    "optb": "Lale",
+    "optc": "Volkan",
+    "optd": "Altay",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "2020 yılında Türk Dünyası kültür başkenti seçilen şehir hangisidir?",
+    "detail": "1991 yılında Dünya Miras Listesi'ne giren Özbekistan'ın hive şehri, 2020 yılında Türk Dünyası kültür başkenti seçilmiştir.",
+    "opta": "Tacikistan - Duşanbe",
+    "optb": "Azerbaycan - Mingeçevir",
+    "optc": "Özbekistan - Hive",
+    "optd": "Türkiye - Kırşehir",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "25 Mayıs 2020 tarihinde Minneapolis kentinde polis tarafından öldürülmesinin ardından ölümü, ABD'de şiddet olaylarını tetikleyen kişi kimdir?",
+    "detail": "20 dolar sahte banknot ihbarı üzere tutuklama işlemi sırasında, polis tarafından boğazına 8 dakika 46 saniye bastırılması sonucu hayatını kaybeden George Floyd'un ölümünden sonra, 'Black Lives Matter' gösterileri başlamıştır.",
+    "opta": "Daunte Wright",
+    "optb": "Emmett Till",
+    "optc": "Trayvon Martin",
+    "optd": "George Floyd",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "1918-1920 yılları arasında 500 milyondan fazla kişiye bulaşması sonucu 75 milyondan dolayında insanın ölümüne sebep olan hastalığın adı nedir?",
+    "detail": "Atatürk'ün de yakalanıp atlattığı bu hastalığın adı İspanyol gribidir. Kimi tarihçilere göre 1. Dünya savaşının bitmesinde önemli bir etkendir.",
+    "opta": "İspanyol Gribi",
+    "optb": "Asya Gribi",
+    "optc": "HIV/AIDS Pandemisi",
+    "optd": "Kara Ölüm",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "İnsanlık tarihinde kaydedilen en ölümcül salgın hastalık hangisidir?",
+    "detail": "1346-1353 yılları arasında tahminen 75-200 milyon ölüm ile Avrupa nüfusunun %30-%60 azalmasına sebep olan salgının adı 'Kara Ölüm''dür. 'Kara Veba' da denilir. Çin'de başlayan bu salgın Avrupa'ya, Moğollar'ın Kırım'da kuşattığı Ceneviz ticaret merkezine vebalı cesetleri mancınıkla atması sonucu yayılmıştır.",
+    "opta": "Kara Ölüm",
+    "optb": "İspanyol Gribi",
+    "optc": "Asya Gribi",
+    "optd": "Atina Vebası",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Aşağıdakilerden hangisi Türkiye'ye ait bir sondaj gemisi değildir?",
+    "detail": "'Fatih', 'Yavuz' ve 'Kanuni' sondaj gemileridir. 'Barbaros Hayrettin Paşa' ve 'Oruç Reis' sismik araştırma gemileridir.",
+    "opta": "Fatih",
+    "optb": "Oruç Reis",
+    "optc": "Yavuz",
+    "optd": "Kanuni",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "'Hababam Sınıfı' kitabının yazarı kimdir?",
+    "detail": "Bu kişi aynı zamanda 'Bacaksız' serisinin de yazarı olan Rıfat Ilgaz'dır.",
+    "opta": "Cemal Süreya",
+    "optb": "Ahmet Hamdi Tanpınar",
+    "optc": "Rıfat Ilgaz",
+    "optd": "Halide Edip Adıvar",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "'Saatleri Ayarlama Enstitüsü' adlı eserin yazarı kimdir?",
+    "detail": "Bu yazar aynı zamanda 'Beş Şehir', 'Mahur Beste', 'Huzur' eserlerinin sahibi Ahmet Hamdi Tanpınar'dır.",
+    "opta": "Yakup Kadri Karaosmanoğlu",
+    "optb": "Refik Halit Karay",
+    "optc": "Halide Edip Adıvar",
+    "optd": "Ahmet Hamdi Tanpınar",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Yerli otomobili üretecek 'Türkiye Otomobil Girişim Grubu'nun (TOGG) CEO'su kimdir?",
+    "detail": "Mobilite alanında iF Tasarım ödülünü alan TOGG'un CEO'su Mehmet Gürcan Karakaş'tır.",
+    "opta": "Mehmet Gürcan Karakaş",
+    "optb": "Selçuk Bayraktar",
+    "optc": "Haluk Dinçer",
+    "optd": "Levent Çakıroğlu",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "UNESCO Dünya Mirasları Listesi'nden Petra Antik Kenti nerede yer almaktadır?",
+    "detail": "Nebati Krallığının başkenti olan Petra Antik Kenti Ürdün'de yer almaktadır.",
+    "opta": "Libya",
+    "optb": "Ürdün",
+    "optc": "Mısır",
+    "optd": "Lübnan",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "2019 yılında idam cezasına çarptırılan eski Pakistan cumhurbaşkanı kimdir?",
+    "detail": "İdam cazasına çarptırılan eski cumhurbaşkanı Pervez Müşerref'tir. Muhammed Ali Cinnah kurucu liderdir. Arif Alvi günümüzdeki cumhurbaşkanıdır. Muhammed Rıza Pehlevi ise son İran şahıdır.",
+    "opta": "Muhammed Rıza Pevlevi",
+    "optb": "Muhammed Ali Cinnah",
+    "optc": "Pervez Müşerref",
+    "optd": "Arif Alvi",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Aralık 2019 tarihinde suya indirilen,Türkiye'nin yeni tip denizaltı projesinin ilk denizaltısı hangisidir?",
+    "detail": "Reis sınıfı denizaltıların ilk mensubu 'Piri Reis'tir.",
+    "opta": "Turgut Reis",
+    "optb": "Oruç Reis",
+    "optc": "Murat Reis",
+    "optd": "Piri Reis",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Sinema tarihimizdeki ilk renkli film hangisidir?",
+    "detail": "Muhsin Ertuğrul'un yönetmeni olduğu, 1953 tarihli ilk renkli filmimiz Halıcı Kız'dır.",
+    "opta": "Halıcı Kız",
+    "optb": "İstanbul Sokakları'nda",
+    "optc": "Sevmek Zamanı",
+    "optd": "Piano Piano Bacaksız",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "İlk Türkçe mizah dergisi hangisidir?",
+    "detail": "İlk Türkçe mizah dergisi 1872 yılında Osmanlı'da Theodor Kasap tarafından çıkarılan Diyojen'dir.",
+    "opta": "Naber",
+    "optb": "Diyojen",
+    "optc": "Diken",
+    "optd": "Terakki",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "19 Nisan 2021 tarihinde isyancılarla çatışmada yaralanarak ölen İdriss Deby hangi ülkenin cumhurbaşkanıdır?",
+    "detail": "1990'dan bu yana Çad cumhurbaşkanlığını üstlenen İdriss Deby isyancıları bastırmak için düzenlenen operasyona katılmış çıkan çatışmada yaralarak vefat etmiştir.",
+    "opta": "Sudan",
+    "optb": "Nijerya",
+    "optc": "Çad",
+    "optd": "Burkina Faso",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "NASA'nın düzenlediği Dünya Turnuvası adlı çevrimiçi fotoğraf yarışmasında birinci olan fotoğraf nerenin fotoğrafıdır?",
+    "detail": "Uzaydan çekilen Van Gölü fotoğrafı birinci olmuştur.",
+    "opta": "Beyşehir Gölü",
+    "optb": "Tuz Gölü",
+    "optc": "Salda Gölü",
+    "optd": "Van Gölü",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Karabağ savaşında Türkiye'nin ürettiği İHA'ların etkisinden dolayı İlham Aliyev tarafından Karabağ Nişanı ile ödüllendirilen Türk Sanayici kimdir?",
+    "detail": "Karabağ Savaşı'nda Azerbaycan Türk üretimi İHA/SİHA'ların da etkisi ile zafer kazanmıştır. Bu İHA'ların üretici Baykar şirketinin CTO'su Selçuk Bayraktar'a Karabağ Nişanı verilmiştir.",
+    "opta": "Selçuk Bayraktar",
+    "optb": "Mahmut Faruk Akşit",
+    "optc": "Haluk Görgün",
+    "optd": "Temel Kotil",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "9 Nisan 2021 tarihinde ölen Kraliçe Elizabeth'in eşi Edinburg Dükü kimdir?",
+    "detail": "Edinburg Dükü Prens Philip Windsor, 9 Nisan 2021'de vefat etmiştir. Oğlu Charles, torunu Harry ve kayınçosu Edward hala hayattadır.",
+    "opta": "Prens Edward",
+    "optb": "Prens Philip",
+    "optc": "Prens Charles",
+    "optd": "Prens Harry",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Türkiyenin ilk kadın taaruz helikopter pilotu kimdir?",
+    "detail": "Kullandığı F-5 savaş uçağının düşmesi sonucu 2001 yılında şehit olan ilk kadın pilotumuz Ayfer Gök'tür. İlk Türk kadın jet pilotu Leman Bozkurt Altınçekiç'tir aynı zamanda NATO'nun da uzun süre ilk ve tek kadın jet pilotudur. İlk kadın savaş pilotumuz ise Sabiha Gökçen'dir. İlk kadın taarruz helikopteri pilotumuz Özge Karabulut'tur.",
+    "opta": "Leman Bozkurt Altınçekiç",
+    "optb": "Ayfer Gök",
+    "optc": "Özge Karabulut",
+    "optd": "Sabiha Gökçen",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Mars'ta ilk uçuşu gerçekleştiren helikopterin adı nedir?",
+    "detail": "Ingenuity Mars'ta uçan ilk helikopter'dir. Perseverance ve Curiosity Mars yüzeyindeki insansız kara araçlarıdır. Falcon 9 ise Elon Musk'un sahibi olduğu SpaceX'in dikey iniş yapabilen roketidir.",
+    "opta": "Falcon 9",
+    "optb": "Perseverance",
+    "optc": "Curiosity",
+    "optd": "Ingenuity",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "'Vatan Yahut Silistre', kimin eseridir?",
+    "detail": "'Vatan Yahut Silistre' Namık Kemal'in 4 perdelik tiyatro eseridir.",
+    "opta": "Namık Kemal",
+    "optb": "Tevfik Fikret",
+    "optc": "Recaizade Mahmut Ekrem",
+    "optd": "Nazım Hikmet",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Aşk-ı Memnu romanının yazarı kimdir?",
+    "detail": "Aşk-ı Memnu romanının yazarı Halid Ziya Uşaklıgil, 'Mai ve Siyah' eserinin de sahibidir.",
+    "opta": "Yakup Kadri Karaosmanoğlu",
+    "optb": "Halid Ziya Uşaklıgil",
+    "optc": "Ahmet Mithat Efendi",
+    "optd": "Reşat Nuri Güntekin",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "2021 Mart ayında Süveyş Kanalı'nda kaza yaparak kanalı bir süre gemi trafiğine tıkayan geminin adı nedir?",
+    "detail": "Bu gemi Tayvanlı Evergiven firmasına ait Ever Given gemisidir.",
+    "opta": "Tranquality",
+    "optb": "Infinity",
+    "optc": "Ever Given",
+    "optd": "Safe Marine",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "2021 yılının, cumhurbaşkanlığı tarafından, ne yılı olarak kutlanmasına kara verilmiştir?",
+    "detail": "2021 yılı Hacı Bektaş Veli yılı olarak kutlanacaktır.",
+    "opta": "Fatih Sultan Mehmet",
+    "optb": "Ahmet Yesevi",
+    "optc": "Hacı Bektaş Veli",
+    "optd": "Pir Sultan Abdal",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Ilısu Barajı'nın yeni adı nedir?",
+    "detail": "Ilısu Barajı'na 2007-2018 yılları arasında 'Orman ve Su İşleri Bakanlığı', 'Çevre ve Ormancılık Bakanlığı' görevlerini yürüten Veysel Eroğlu'nun ismi verilmiştir.",
+    "opta": "Cem Toker Barajı",
+    "optb": "Bekir Bozdağ Barajı",
+    "optc": "Bekir Pakdemirli Barajı",
+    "optd": "Veysel Eroğlu Barajı",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "İstiklal Madalyası alan ilk şehrimiz hangisidir?",
+    "detail": "İstiklal Madalyası alan şehirlerimiz Şanlıurfa, Gaziantep, Kahramanmaraş ve İnebolu'dur. İnebolu İstiklal madalyası alan tek ilçe, Kahramanmaraş ise ilk alan şehrimizdir.",
+    "opta": "Kahramanmaraş",
+    "optb": "İzmir",
+    "optc": "Şanlıurfa",
+    "optd": "Gaziantep",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "İstiklal Madalyası sahibi tek ilçemiz hangisidir?",
+    "detail": "İstiklal Madalyası alan şehirlerimiz Şanlıurfa, Gaziantep, Kahramanmaraş ve İnebolu'dur. İnebolu İstiklal madalyası alan tek ilçe, Kahramanmaraş ise ilk alan şehrimizdir.",
+    "opta": "Kozan",
+    "optb": "İnebolu",
+    "optc": "Çorlu",
+    "optd": "Turgutlu",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Aşağıdaki illerden hangisi İstiklal Madalyası almamıştır?",
+    "detail": "İstiklal Madalyası alan şehirlerimiz Şanlıurfa, Gaziantep, Kahramanmaraş ve İnebolu'dur. İnebolu İstiklal madalyası alan tek ilçe, Kahramanmaraş ise ilk alan şehrimizdir.",
+    "opta": "Şanlıurfa",
+    "optb": "Kahramanmaraş",
+    "optc": "Ankara",
+    "optd": "Gaziantep",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Türkiye'nin en yüksek gölü hangisidir?",
+    "detail": "2241 metre rakımı ile Ağrı'nın Taşlıçay ilçesine bağlı Balık Gölü en yüksek gölümüzdür. Volkanik faaliyetlerle oluşan doğal bir göl olduğu için en derin gölümüz Acı Göl'dür. Dünya'nın en düşük rakımlı gölü ise deniz seviyesinden 420 metre aşağıda olan Lut Gölü'dür. Yüz ölçümü bakımından en büyük gölümüz ise Van Gölü'dür.",
+    "opta": "Van Gölü",
+    "optb": "Lut Gölü",
+    "optc": "Acı Göl",
+    "optd": "Balık Gölü",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "En derin gölümüz hangisidir?",
+    "detail": "2241 metre rakımı ile Ağrı'nın Taşlıçay ilçesine bağlı Balık Gölü en yüksek gölümüzdür. Volkanik faaliyetlerle oluşan doğal bir göl olduğu için en derin gölümüz Acı Göl'dür. Dünya'nın en düşük rakımlı gölü ise deniz seviyesinden 420 metre aşağıda olan Lut Gölü'dür. Yüz ölçümü bakımından en büyük gölümüz ise Van Gölü'dür.",
+    "opta": "Balık Gölü",
+    "optb": "Van Gölü",
+    "optc": "Lut Gölü",
+    "optd": "Acı Göl",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Yüz ölçümü bakımından en büyük gölümüz hangisidir?",
+    "detail": "2241 metre rakımı ile Ağrı'nın Taşlıçay ilçesine bağlı Balık Gölü en yüksek gölümüzdür. Volkanik faaliyetlerle oluşan doğal bir göl olduğu için en derin gölümüz Acı Göl'dür. Dünya'nın en düşük rakımlı gölü ise deniz seviyesinden 420 metre aşağıda olan Lut Gölü'dür. Yüz ölçümü bakımından en büyük gölümüz ise Van Gölü'dür.",
+    "opta": "Van Gölü",
+    "optb": "Balık Gölü",
+    "optc": "Lut Gölü",
+    "optd": "Acı Göl",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Dünya'nın en düşük rakımlı gölü hangisidir?",
+    "detail": "2241 metre rakımı ile Ağrı'nın Taşlıçay ilçesine bağlı Balık Gölü en yüksek gölümüzdür. Volkanik faaliyetlerle oluşan doğal bir göl olduğu için en derin gölümüz Acı Göl'dür. Dünya'nın en düşük rakımlı gölü ise deniz seviyesinden 420 metre aşağıda olan Lut Gölü'dür. Yüz ölçümü bakımından en büyük gölümüz ise Van Gölü'dür.",
+    "opta": "Van Gölü",
+    "optb": "Lut Gölü",
+    "optc": "Acı Göl",
+    "optd": "Balık Gölü",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Elon Musk tarafından kurulan SpaceX şirketinin bütün dünyaya uzaydan yüksek hızlı internet sağlamak için başlattığı projenin adı nedir?",
+    "detail": "Manhattan Projesi ile ABD tarafından ilk defa atom bombası üretilmiştir. Apollo Projesi, Ay'a ilk insanlı uçuşun yapıldığı projedir. GAP Projesi, Güneydoğu Anadolu Projesi olarak bilinen Türkiye'nin en büyük tarımsal üretim projesidir. Starlink projesi ile SpaceX şirketi, dünyaya yüksek hızlı internet sağlamak amacıyla, yörüngeye 42000 uydu yerleştirmek istemektedir.",
+    "opta": "Manhattan Projesi",
+    "optb": "Apollo Projesi",
+    "optc": "Starlink Projesi",
+    "optd": "GAP Projesi",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Ay'a ilk insanlı uçuş hangi proje ile gerçekleştirilmiştir?",
+    "detail": "Manhattan Projesi ile ABD tarafından ilk defa atom bombası üretilmiştir. Apollo Projesi, Ay'a ilk insanlı uçuşun yapıldığı projedir. GAP Projesi, Güneydoğu Anadolu Projesi olarak bilinen Türkiye'nin en büyük tarımsal üretim projesidir. Starlink projesi ile SpaceX şirketi, dünyaya yüksek hızlı internet sağlamak amacıyla, yörüngeye 42000 uydu yerleştirmek istemektedir.",
+    "opta": "Manhattan Projesi",
+    "optb": "GAP Projesi",
+    "optc": "Starlink Projesi",
+    "optd": "Apollo Projesi",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "ABD tarafından atom bombasının üretilmesi için yürütülen proje hangisidir?",
+    "detail": "Manhattan Projesi ile ABD tarafından ilk defa atom bombası üretilmiştir. Apollo Projesi, Ay'a ilk insanlı uçuşun yapıldığı projedir. GAP Projesi, Güneydoğu Anadolu Projesi olarak bilinen Türkiye'nin en büyük tarımsal üretim projesidir. Starlink projesi ile SpaceX şirketi, dünyaya yüksek hızlı internet sağlamak amacıyla, yörüngeye 42000 uydu yerleştirmek istemektedir.",
+    "opta": "Manhattan Projesi",
+    "optb": "GAP Projesi",
+    "optc": "Apollo Projesi",
+    "optd": "Starlink Projesi",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "2015 yılında Nobel Kimya ödülü kazanan bilim adamımız kimdir?",
+    "detail": "DNA tamiri konularında yaptığı çalışmalardan ötürü 2015 Nobel Kimya ödülünü Aziz Sancar kazanmıştır.",
+    "opta": "Cahit Arf",
+    "optb": "Aziz Sancar",
+    "optc": "Hasan Ocak",
+    "optd": "Orhan Pamuk",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Dünyanın en fazla petrol rezervine sahip ülkesi hangisidir?",
+    "detail": "Venezuela dünyanın en çok petrol rezervine sahip ülkesidir.",
+    "opta": "Amerika",
+    "optb": "İran",
+    "optc": "Venezuela",
+    "optd": "Suudi Arabistan",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Çernobil Faciası zamanında Sovyetler Birliği'nin bir parçası olan hangi ülke sınırları içerisindedir?",
+    "detail": "Çernobil Faciası Ukrayna'nın Pripyat şehri yakınlarındaki Çernobil Nükleer Reaktörü'nün 4. binasının patlaması sonucu meydana gelmiştir. Saatte 15000 röntgen radyasyon asalınımıyla kazadan sonraki 10 gün boyunca salınım yapan Çernobil Hiroşima'ya atılan atom boma-basının 400 katı radyasyon salmıştır.",
+    "opta": "Kazakistan",
+    "optb": "Sırbistan",
+    "optc": "Belarus",
+    "optd": "Ukrayna",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Dünyanın en büyük çölü hangisidir?",
+    "detail": "Sahra Çölü Dünya'nın en büyük sıcak çölü olup Afrika'nın kuzeyinde kıtanın ortası ile kuzeyini ayıran 9 milyon kilkometre karelik dev bir çöldür.",
+    "opta": "Sahra Çölü",
+    "optb": "Gobi Çölü",
+    "optc": "Atacama Çölü",
+    "optd": "Mojave Çölü",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Üstüste 4 defa dünya şampiyonu olan milli güreşçimiz kimdir?",
+    "detail": "Rıza Kayaalp üstüste 4 defa dünya şampiyonu olmuştur. Ayrıca 10 defa da Avrupa şampiyonu olmuştur.",
+    "opta": "Ahmet Taşçı",
+    "optb": "Rıza Kayaalp",
+    "optc": "Mehmet Yeşil Yeşil",
+    "optd": "İsmail Balaban",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Ocak 2020'de ABD SİHA'sı tarafından öldürülen İran Devrim Muhafızları Kudüs Gücü Komutanı kimdir?",
+    "detail": "ABD tarafından öldürülen İran Devrim Muhafızları Kudüs Gücü Komutanı Kasım Süleymani çoğunlukla yurtdışı operasyonlardan sorumluydu.",
+    "opta": "Ebu Bekir El-Bağdadi",
+    "optb": "Ali Hamaney",
+    "optc": "Kasım Süleymani",
+    "optd": "Hasan Ruhani",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Türkiye'nin uluslararası telefon kodu kaçtır?",
+    "detail": "Türkiye'nin uluslararası telefon kodu 90 dır. Bazen alınan aramalarda kişi kayıtlı değilse telefonunuzda görebilirsiniz.",
+    "opta": "264",
+    "optb": "058",
+    "optc": "1",
+    "optd": "90",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "3 başkenti olan ülke hangisidir?",
+    "detail": "'Cape Town', 'Pretoria', 'Bloemfontein' illeriyle 3 başkente sahip Güney Afrika ayrıca 11 resmi dile sahiptir.",
+    "opta": "Güney Afrika",
+    "optb": "Endonezya",
+    "optc": "Belçika",
+    "optd": "Tayvan",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Ülkemizin yüzölçümü en büyük komşusu hangisidir?",
+    "detail": "Yüzölçümü en büyük komşumuz İran'dır. En uzun kara sınırlarını ise Suriye ile paylaşmaktayız.",
+    "opta": "Yunanistan",
+    "optb": "İran",
+    "optc": "Gürcistan",
+    "optd": "Suriye",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Küçük Prens eserinin yazarı kimdir?",
+    "detail": "Küçük prens hikayesinin yazarı Antoine de Saint-Exupery'dir. Cemal Süreya ve Tomris Uyar Türkçe'ye çevirmişlerdir.",
+    "opta": "George Orwell",
+    "optb": "Ernest Hemingway",
+    "optc": "Antoine de Saint-Exupery",
+    "optd": "J.R.R. Tolkien",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Aşağıdakilerden hangisi George Orwell'in kitaplarından değildir?",
+    "detail": "'1984' ve 'Hayvan Çiftliği' George Orwell'in sistem eleştirisi kitaplarıdır. 'Aspidistra' kitabında dibe vurmak isteyen bir adamı ve yaşadıklarını anlatmıştır. 'Cesur Yeni Dünya' kitabı ise Aldoux Huxley'in bir distopyasıdır.",
+    "opta": "1984",
+    "optb": "Hayvan Çiftliği",
+    "optc": "Aspidistra",
+    "optd": "Cesur Yeni Dünya",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Franz Kafka'nın 'Dönüşüm' adlı eserinin kahramanı Gregor Samsa, bir gün yatakta ne olarak uyanmıştır?",
+    "detail": "'Gregor Samsa bir sabah kendini dev bir böceğe dönüşmüş olarak bulur.",
+    "opta": "Hamamböceği",
+    "optb": "Güvercin",
+    "optc": "Fare",
+    "optd": "Kedi",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Tarihin sıfır noktası neresidir?",
+    "detail": "Şanlıurfa'nın Örencik köyü yakınlarında bulunan Göbeklitepe'de, günümüzden 12000 yıl önce, yerleşik hayata geçmemiş avcı, toplayıcı yaşam süren insanların hiçbir alet kullanmadan çakmaktaşlarıyla inşa ettiği ibadethane yer alır. Bulunan bu en eski yapı burayı tarihin sıfır noktası yapan şeydir.",
+    "opta": "İstanbul",
+    "optb": "Göbeklitepe",
+    "optc": "Keops Piramidi",
+    "optd": "Stonehenge",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Wuhan'da başlayan koronavirüs pandemisinde kentteki vatandaşları kurtarmak için TSK'nın düzenlediği operasyonun adı nedir?",
+    "detail": "Koca Yusuf Operasyonu Türkiye'nin Wuhan koronavirüs salgını sırasında gerçekleştirdiği tahliye operasyonudur.",
+    "opta": "Zeytin Dalı",
+    "optb": "Barış Pınarı",
+    "optc": "Koca Yusuf",
+    "optd": "Pençe Kartal",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Ekim 2018'de öldürülen Cemal Kaşıkçı hangi ülkenin vatandaşıdır?",
+    "detail": "İstanbul Suudi Arabistan konsolosluğunda öldürülen muhalif gazeteci Cemal Kaşıkçı Suudi Arabistan vatandaşıdır.",
+    "opta": "ABD",
+    "optb": "Filistin",
+    "optc": "Mısır",
+    "optd": "Suudi Arabistan",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Olimpiyat bayrağında kaç adet halka bulunmaktadır?",
+    "detail": "Olimpiyat bayrağında 5 kıtaya ithafen 5 halka bulunur. Mavi, sarı, siyah, yeşil, kırmızı renklerle de çeşitlilik vurgulanmıştır.",
+    "opta": "5",
+    "optb": "4",
+    "optc": "1",
+    "optd": "8",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "'Cep Herkülü' lakaplı haltercimiz kimdir?",
+    "detail": "Birçok otoriteye göre tüm zamanların en iyi haltercisi kabul edilen Naim Süleymanoğlu'na yapıca ufak tefek fakat çok güçlü olması nedeniyle 'Cep Herkülü' lakabı takılmıştır.",
+    "opta": "Rıza Kayaalp",
+    "optb": "Halil Mutlu",
+    "optc": "Naim Süleymanoğlu",
+    "optd": "Taner Sağır",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Dünya'nın en derin ikinci kanyonu olan 'Valla Kanyonu' hangi ilimizdedir?",
+    "detail": "Valla Kanyonu Kastamonu'dadır. Yarlung Tsangpo kanyonundan sonra dünyanın en derin ikinci kanyonudur.",
+    "opta": "Muğla",
+    "optb": "Manisa",
+    "optc": "Antalya",
+    "optd": "Kastamonu",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "İzafiyet kuramını ortaya atan bilim adamı kimdir?",
+    "detail": "Albert Einstein izafiyet(görelilik) kuramını ortaya atmıştır. Ünlü eşitliğine göre enerji, kütle ve ışık hızının çarpımına eşittir.",
+    "opta": "Albert Einstein",
+    "optb": "Stephen Hawking",
+    "optc": "Isaac Newton",
+    "optd": "Nikola Tesla",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Türkçe, köken bakımından hangi dil ailesine bağlıdır?",
+    "detail": "Türkçe Ural-Altay dil ailesinin Altay koluna mensuptur. Türkçe, Moğolca, Mançuca, Tunguzca, Japonca, Korece, Altay koluna, Macarca, Fince, Estonca Ural koluna aittir. Bu dillere sahip insanlar aynı ailedeki diğer dilleri daha kolay öğrenebilir.",
+    "opta": "Bantu",
+    "optb": "Ural-Altay",
+    "optc": "Çin-Tibet",
+    "optd": "Hami-Sami",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Patara Antik kenti hangi ilmizi sınırları içerisindedir?",
+    "detail": "Patara Antik Kenti Muğla Antalya sınırına çok yakındır, Muğla il sınırları içerisinde yer almaktadır.",
+    "opta": "Hatay",
+    "optb": "İzmir",
+    "optc": "Muğla",
+    "optd": "Antalya",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Yerli otomobil (TOGG) fabrikasının nereye kurulması kararlaştırılmıştır?",
+    "detail": "TOGG fabrikası otomotiv sanayiinin etkinliği ve liman olanakları yüzünden Bursa'ya kurulacaktır.",
+    "opta": "Manisa",
+    "optb": "Adana",
+    "optc": "Kocaeli",
+    "optd": "Bursa",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "'Zamanın Kısa Tarihi' ve 'Herşeyin Teorisi' adlı kitapların yazarı ünlü fizikçi kimdir?",
+    "detail": "'Zamanın Kısa Tarihi' ve 'Herşeyin Teorisi' kitaplarını yazan dünyaca ünlü teorik fizikçi Stephen Hawking'tir.",
+    "opta": "Stephen Hawking",
+    "optb": "Carl Sagan",
+    "optc": "Sheldon Cooper",
+    "optd": "Albert Einstein",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "'Notre-Dame'ın Kamburu' eserinin yazarı kimdir?",
+    "detail": "'Notre-Dame'ın Kamburu' ve 'Sefiller' eserlerinin yazarı Victor Hugo'dur.",
+    "opta": "Jean Paul Sartre",
+    "optb": "Victor Hugo",
+    "optc": "Dostoyevski",
+    "optd": "Balzac",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "'Sefiller' eserinin yazarı kimdir?",
+    "detail": "'Notre-Dame'ın Kamburu' ve 'Sefiller' eserlerinin yazarı Victor Hugo'dur.",
+    "opta": "Ernest Hemingway",
+    "optb": "Dostoyevski",
+    "optc": "Victor Hugo",
+    "optd": "Tolstoy",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "'Vadideki Zambak' adlı eserin yazarı kimdir?",
+    "detail": "'Vadideki Zambak' ın yazarı Balzac'tır.",
+    "opta": "Victor Hugo",
+    "optb": "Tolstoy",
+    "optc": "Dostoyevski",
+    "optd": "Balzac",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "'Çanlar Kimin İçin Çalıyor' eserinin yazarı kimdir?",
+    "detail": "'Çanlar Kimin İçin Çalıyor' eseri Ernest Hemingway'e aittir.",
+    "opta": "Ernest Hemingway",
+    "optb": "Dostoyevski",
+    "optc": "Tolstoy",
+    "optd": "Nietzsche",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "'Suç ve Ceza' eserinin yazarı kimdir?",
+    "detail": "'Suç ve Ceza', 'Karamazov Kardeşler', 'Yeraltından Notlar' eserleri Dostoyevski'ye aittir.",
+    "opta": "Victor Hugo",
+    "optb": "Dostoyevski",
+    "optc": "Tolstoy",
+    "optd": "Nietzsche",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "'Karamazov Kardeşler' eserinin yazarı kimdir?",
+    "detail": "'Suç ve Ceza', 'Karamazov Kardeşler', 'Yeraltından Notlar' eserleri Dostoyevski'ye aittir.",
+    "opta": "Tolstoy",
+    "optb": "Victor Hugo",
+    "optc": "Dostoyevski",
+    "optd": "Nietzsche",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "'Yeraltından Notlar' eserinin yazarı kimdir?",
+    "detail": "'Suç ve Ceza', 'Karamazov Kardeşler', 'Yeraltından Notlar' eserleri Dostoyevski'ye aittir.",
+    "opta": "Victor Hugo",
+    "optb": "Tolstoy",
+    "optc": "Nietzsche",
+    "optd": "Dostoyevski",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "'Anne Karenina' eserinin yazarı kimdir?",
+    "detail": "'Savaş ve Barış' ve 'Anne Karenina' eserlerinin yazarı Tolstoy'dur.",
+    "opta": "Tolstoy",
+    "optb": "Dostoyevski",
+    "optc": "Balzac",
+    "optd": "Dostoyevski",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "'Savaş ve Barış' ve 'Anne Karenina' eserlerinin yazarı Tolstoy'dur.",
+    "detail": "'Savaş ve Barış' ve 'Anne Karenina' eserlerinin yazarı Tolstoy'dur.",
+    "opta": "Dostoyevski",
+    "optb": "Tolstoy",
+    "optc": "Balzac",
+    "optd": "Ernest Hemingway",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "2023 yılında tamamen Latin alfabesine geçecek olan ülke hangisidir?",
+    "detail": "023 yılında Latin alfabesine geçecek olan ülke Özbekistan'dır.",
+    "opta": "Birleşik Arap Emirlikleri",
+    "optb": "Kazakistan",
+    "optc": "Özbekistan",
+    "optd": "Rusya",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Osmanlı Devleti'nde ilk nüfus sayımının yapan padişah kimdir?",
+    "detail": "2. Mahmut döneminde Osmanlı'nın ilk nüfus sayımı yapılmış, sadece erkeklerin sayıldığı bu sayımda 5,159,871 kişi kayıtlara geçmiştir.",
+    "opta": "4.Murat",
+    "optb": "2.Abdülhamit",
+    "optc": "Kanuni Sultan Süleyman",
+    "optd": "2.Mahmut",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "İlk edebi romanımızın adı nedir?",
+    "detail": "Namık Kemal'in yazdığı İntibah ya da diğer adıyla Sergüzeşt-i Ali Bey, aşırı korumacı bir ailede yetişen bir delikanlının hayatını anlatır.",
+    "opta": "İntibah",
+    "optb": "Araba Sevdası",
+    "optc": "Ateşten Gömlek",
+    "optd": "Kara Bibik",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Ermenistan ile sınırımızı oluşturan nehrin adı nedir?",
+    "detail": "Ermenistan ile sınırımızı Aras Nehri oluşturur. Yunanistan sınırımızı ise Meriç Nehri belirler.",
+    "opta": "Meriç Nehri",
+    "optb": "Aras Nehri",
+    "optc": "Asi Nehri",
+    "optd": "Çoruh Nehri",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Yunanistan ile sınırımızı belirleyen nehrin adı nedir?",
+    "detail": "Ermenistan ile sınırımızı Aras Nehri oluşturur. Yunanistan sınırımızı ise Meriç Nehri belirler.",
+    "opta": "Çoruh Nehri",
+    "optb": "Gediz Nehri",
+    "optc": "Meriç Nehri",
+    "optd": "Aras Nehri",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Türkiye'nin ilk tanksavar füzesinin adı nedir?",
+    "detail": "Türkiye'nin ilk tanksavar füzesi ROKETSAN tarafından üretilen havadan karaya UMTAS (Uzun Menzilli TAnk Savar) füzesidir.",
+    "opta": "ALTAY",
+    "optb": "ANKA",
+    "optc": "CIRIT",
+    "optd": "UMTAS",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Uzaya ilk astronot gönderen özel şirket hangisidir?",
+    "detail": "Uzaya ilk astronot gönderen özel şirket Elon Musk'ın kurduğu SpaceX şirketidir. Bu şirket aynı zamanda roketlere ,ters iniş teknolojisini geliştirerek, tekrar tekrar kullanılabilme yetisi kazandırmıştır.",
+    "opta": "SpaceX",
+    "optb": "NASA",
+    "optc": "Amazon",
+    "optd": "Tesla",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "'Bayrak şairi' kimdir?",
+    "detail": "'Ey mavi göklerin beyaz ve kızıl süsü...' sözleriyle başlayan bayrak şiirinin yazarı Arif Nihat Asya'dır.",
+    "opta": "Faruk Nafiz Çamlıbel",
+    "optb": "Arif Nihat Asya",
+    "optc": "Kemalettin Kamu",
+    "optd": "Ahmet Kutsi Tecer",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "NATO'nun genel merkezi neresidir?",
+    "detail": "OECD'nin genel merkezi Paris, IMF'nin Washington, NATO'nun Brüksel, Birleşmiş Milletler'in New York'tur.",
+    "opta": "Washington",
+    "optb": "New York",
+    "optc": "Brüksel",
+    "optd": "Paris",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "OECD'nin genel merkezi neresidir?",
+    "detail": "OECD'nin genel merkezi Paris, IMF'nin Washington, NATO'nun Brüksel, Birleşmiş Milletler'in New York'tur.",
+    "opta": "Brüksel",
+    "optb": "Washington",
+    "optc": "New York",
+    "optd": "Paris",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "IMF'nin genel merkezi neresidir?",
+    "detail": "OECD'nin genel merkezi Paris, IMF'nin Washington, NATO'nun Brüksel, Birleşmiş Milletler'in New York'tur.",
+    "opta": "New York",
+    "optb": "Paris",
+    "optc": "Brüksel",
+    "optd": "Washington",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Birleşmiş Milletler'in genel merkezi neresidir?",
+    "detail": "OECD'nin genel merkezi Paris, IMF'nin Washington, NATO'nun Brüksel, Birleşmiş Milletler'in New York'tur.",
+    "opta": "New York",
+    "optb": "Paris",
+    "optc": "Brüksel",
+    "optd": "Washington",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Türkiye'nin ilk yerli ve milli yer gözlem uydusunun adı nedir?",
+    "detail": "2022 yılında uzaya fırlatılacak olan 'İMECE' askeri ve sivil yüksek çözünürlüklü görüntü ihtiyacını karşılayacak.",
+    "opta": "ANKA",
+    "optb": "Turksat 7A",
+    "optc": "UMTAS",
+    "optd": "İMECE",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Aralık 2019'da OPEC'ten çekileceğini ilan eden ülke hangisidir?",
+    "detail": "60 yıllık OPEC üyeliğini sonlandıracak olan ülke Katar'dır.Bu hamle 'Qataxit' olarak da adlandırılmaktadır.",
+    "opta": "Katar",
+    "optb": "Suriye",
+    "optc": "İran",
+    "optd": "Suudi Arabistan",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Avrupa İnsan Hakları Mahkemesi'nin merkezi nerededir?",
+    "detail": "Avrupa İnsan Hakları Mahkemesi'nin merkezi Strazburg'dadır.",
+    "opta": "Berlin",
+    "optb": "Strazburg",
+    "optc": "Stokholm",
+    "optd": "Brüksel",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Dünya'da ilk kez 'Yalnızlık ve İntaharı Önleme Bakanlığı' kurulan ülke hangisidir?",
+    "detail": "Yüksek intihar oranlarını önleme amacıyla ilk kez 'Yalnızlık ve İntaharı Önleme Bakanlığı' İngiltere'de kurulmuştur. Akabinde Japonya'da da kurulmuştur.",
+    "opta": "Japonya",
+    "optb": "Fransa",
+    "optc": "İngiltere",
+    "optd": "Almanya",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Dünya'nın hala kullanılmakta olan en eski köprüsü hangisidir?",
+    "detail": "Ponte Sarus olarak da bilinen Adana'daki Taş köprü 2. yüzyılda Romalılar tarafından yapılmıştır ve halen kullanımdadır.",
+    "opta": "Taşköprü",
+    "optb": "Malabadi Köprüsü",
+    "optc": "Çobandede Köprüsü",
+    "optd": "Irgandı Köprüsü",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "İlahi Komedya'nın yazarı kimdir?",
+    "detail": "Ölüm sonrasında Cehennem, Araf ve Cennet'te geçen seyahati, hikayenin kahramanı da olan kendisinin ağzından anlatan Dante, 'İlahi Komedya' eserinin  sahibidir.",
+    "opta": "Machiavelli",
+    "optb": "Dante",
+    "optc": "Shakespare",
+    "optd": "Boccaccio",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Dünyada ilk kez 'Yapay Zeka Bakanlığı kuran ülke hangisidir?",
+    "detail": "Bir robota(Sophia) ilk defa vatandaşlık veren ve Yapay Zeka Bakanlığı kuran ülke Suudi Arabistan'dır.",
+    "opta": "Japonya",
+    "optb": "Almanya",
+    "optc": "Suudi Arabistan",
+    "optd": "ABD",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Bir robota ilk defa vatandaşlık veren ülke hangisidir?",
+    "detail": "Bir robota(Sophia) ilk defa vatandaşlık veren ve Yapay Zeka Bakanlığı kuran ülke Suudi Arabistan'dır.",
+    "opta": "Almanya",
+    "optb": "Japonya",
+    "optc": "ABD",
+    "optd": "Suudi Arabistan",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Suudi Arabistan'ın vatandaşlık verdiği robotun adı nedir?",
+    "detail": "Bir robota(Sophia) ilk defa vatandaşlık veren ve Yapay Zeka Bakanlığı kuran ülke Suudi Arabistan'dır.",
+    "opta": "Sophia",
+    "optb": "Margaret",
+    "optc": "Asimo",
+    "optd": "Akıncı",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Türkiye'nin ilk genel maksatlı helikopterinin adı nedir?",
+    "detail": "TAI tarafından üretilen GÖKBEY ilk genel maksatlı helikopterimizdir.",
+    "opta": "ATAK",
+    "optb": "GÖKBEY",
+    "optc": "Aksungur",
+    "optd": "Akıncı",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "İlk uzay yürüyüşünü gerçekleştiren kişi kimdir?",
+    "detail": "Uzaya çıkan ilk insan Yuri Gagarin'dir. Ay'a ilk ayak basan insan Neil Armstrong'tur. İlk uzay yürüyüşü yapan insan Alexei Leonov'dur. Uzaya çıkan ilk kadın, Valentina Tereshkova'dır.",
+    "opta": "Alexei Leonov",
+    "optb": "Neil Armstrong",
+    "optc": "Valentina Tereshkova",
+    "optd": "Yuri Gagarin",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Uzaya çıkan ilk insan kimdir?",
+    "detail": "Uzaya çıkan ilk insan Yuri Gagarin'dir. Ay'a ilk ayak basan insan Neil Armstrong'tur. İlk uzay yürüyüşü yapan insan Alexei Leonov'dur. Uzaya çıkan ilk kadın, Valentina Tereshkova'dır.",
+    "opta": "Neil Armstrong",
+    "optb": "Yuri Gagarin",
+    "optc": "Alan Shepard",
+    "optd": "Alexei Leonov",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Uzaya çıkan ilk kadın kimdir?",
+    "detail": "Uzaya çıkan ilk insan Yuri Gagarin'dir. Ay'a ilk ayak basan insan Neil Armstrong'tur. İlk uzay yürüyüşü yapan insan Alexei Leonov'dur. Uzaya çıkan ilk kadın, Valentina Tereshkova'dır.",
+    "opta": "Yuri Gagarin",
+    "optb": "Alan Shepard",
+    "optc": "Valentina Tereshkova",
+    "optd": "Sally Ride",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Ay'a ilk ayak basan insan kimdir?",
+    "detail": "Uzaya çıkan ilk insan Yuri Gagarin'dir. Ay'a ilk ayak basan insan Neil Armstrong'tur. İlk uzay yürüyüşü yapan insan Alexei Leonov'dur. Uzaya çıkan ilk kadın, Valentina Tereshkova'dır.",
+    "opta": "Michael Collins",
+    "optb": "Edwin Aldrin",
+    "optc": "Alan Shepard",
+    "optd": "Neil Armstrong",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Mars'a başarılı iniş yapan ilk robot hangisidir?",
+    "detail": "1997 yılında Mars yüzeyine inen Pathfinder, Mars'a başarılı yumuşak iniş yapan ilk insansız kara aracıdır.",
+    "opta": "Pathfinder",
+    "optb": "Oppurtunity",
+    "optc": "Curiosity",
+    "optd": "Ingenuity",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Orhun Yazıtları hangi ülkenin sınırları içerisinde yer almaktadır?",
+    "detail": "Göktürkler tarafından yapılan Orhun Yazıtları günümüzde Moğolistan sınırları içerisinde bulunmaktadır.",
+    "opta": "Türkmenistan",
+    "optb": "Moğolistan",
+    "optc": "Kırgızistan",
+    "optd": "Kazakistan",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Türkiye'nin ilk milli insansız hava aracının adı nedir?",
+    "detail": "Altay milli tank projemizdir. Bayraktar, Baykar firmasının geliştirdiği, Karayel, Vestel firmasının geliştirdiği İHA'lardır. TUSAŞ üretimi ANKA ise ilk insansız hava aracımızdır.",
+    "opta": "Altay",
+    "optb": "Karayel",
+    "optc": "ANKA",
+    "optd": "Bayraktar",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Türkiye'nin ilk uçak fabrikası 1926 yılında hangi ilimizde açılmıştır?",
+    "detail": "Nuri Demirağ tarafından ilk uçak fabrikamız TOMTAŞ, Kayseri'de açılmıştır. Onuncu yıl marşında '..demirağlarla ördük anayurdu dört baştan..' sözleri Nuri Demirağ'ın yurdumuza kazandırdığı demiryolları üzerine söylenmektedir.",
+    "opta": "Ankara",
+    "optb": "Eskişehir",
+    "optc": "Malatya",
+    "optd": "Kayseri",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Penisilin'i kim icad etmiştir?",
+    "detail": "Penisilin'i geliştiren bilim adamı Alexander Fleming, antibiyotik olarak bilinen ,bakteriyel hastalıkların önlenmesinde kullanılan, ilaçların keşfini sağlamıştır.",
+    "opta": "Alexander Fleming",
+    "optb": "Louis Pastor",
+    "optc": "Gregor Mendel",
+    "optd": "Marie Curie",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Kuduz aşısını kim icad etmiştir?",
+    "detail": "Kuduz aşısını icad eden Louis Pastor, yiyeceklerin daha uzun süre bozulmadan korunabilmesini sağlayan 'Pastörize' tekniğini de geliştirmiştir.",
+    "opta": "Alexander Fleming",
+    "optb": "Louis Pastor",
+    "optc": "Gregor Mendel",
+    "optd": "Marie Curie",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Radyoaktivite'yi kim keşfetmiştir?",
+    "detail": "Radyoaktivite'yi keşfeden Nobel ödülü sahibi Marie Curie, o zamanlar yan etkileri bilinmediği için uzun süreli radyasyona maruz kalmaktan kanser olarak yaşama veda etmiştir.",
+    "opta": "Alexander Fleming",
+    "optb": "Albert Einstein",
+    "optc": "Marie Curie",
+    "optd": "Louis Pastor",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Karadeniz'de doğalgaz rezervi bulan gemimizin adı nedir?",
+    "detail": "İlk milli sondaj gemimiz Fatih, Karadeniz'de Tuna-1 bölgesinde 405 milyar metreküp doğalgaz rezervi bulmuştur.",
+    "opta": "Kanuni",
+    "optb": "Nene Hatun",
+    "optc": "Yavuz",
+    "optd": "Fatih",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Pakistan'a atanan ilk büyükelçimiz kimdir?",
+    "detail": "İlk Pakistan büyükelçimiz 'Kendi Gök Kubbemiz', 'Aziz İstanbul' eserlerinin yazarı olan Yahya Kemal Beyatlı'dır.",
+    "opta": "Yahya Kemal Beyatlı",
+    "optb": "Tevfik Fikret",
+    "optc": "Yakup Kadri Karaosmanoğlu",
+    "optd": "Reşat Nuri Güntekin",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "İl ilan edilen son ilçemiz hangisidir?",
+    "detail": "1999 depreminden sonra bölgenin yaralarının daha hızlı sarılması ve hızlıca kalkınması için Düzce'ye il statüsü verildi.",
+    "opta": "Bayburt",
+    "optb": "Düzce",
+    "optc": "Bilecik",
+    "optd": "Osmaniye",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Türk Lirası simgesini kim tasarlamıştır?",
+    "detail": "Türk Lirası simgesini Tülay Lale tasarlamıştır. TL nin üç harfli uluslararası standart kullanımı ise TRY'dir.",
+    "opta": "Abidin Dino",
+    "optb": "İbrahim Balaban",
+    "optc": "Tülay Lale",
+    "optd": "Sait Maden",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Türkiye'nin orta menzilli ilk yerli füze motorunun adı nedir?",
+    "detail": "Türkiye'nin orta menzilli ilk yerli füze motoru TEI-TJ300, ilk yerli helikopter jet motorumuz ise TEI-TS1400",
+    "opta": "Göktürk 1",
+    "optb": "TEI-TS1400",
+    "optc": "Turksat 6A",
+    "optd": "TEI-TJ300",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "'Gün Olur Asra Bedel' eseri kime aittir?",
+    "detail": "'Gün Olur Asra Bedel', 'Toprak Ana', 'Beyaz Gemi' eserlerinin sahibi Cengiz Aytmatov'dur.",
+    "opta": "Cengiz Aytmatov",
+    "optb": "Tevfik Fikret",
+    "optc": "Arif Nihat Asya",
+    "optd": "Necip Fazıl Kısakürek",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "'Toprak Ana' eseri kime aittir?",
+    "detail": "'Gün Olur Asra Bedel', 'Toprak Ana', 'Beyaz Gemi' eserlerinin sahibi Cengiz Aytmatov'dur.",
+    "opta": "Arif Nihat Asya",
+    "optb": "Cengiz Aytmatov",
+    "optc": "Ömer Seyfettin",
+    "optd": "Mehmet Akif Ersoy",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "'Beyaz Gemi' eseri kime aittir?",
+    "detail": "'Gün Olur Asra Bedel', 'Toprak Ana', 'Beyaz Gemi' eserlerinin sahibi Cengiz Aytmatov'dur.",
+    "opta": "Mehmet Akif Ersoy",
+    "optb": "Ömer Seyfettin",
+    "optc": "Cengiz Aytmatov",
+    "optd": "Arif Nihat Asya",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Türkiye'nin ilk seri üretim yapan insansı robot fabrikası 'Akın Robotics' hangi ilimizdedir?",
+    "detail": "Ada ve Akıncı serileri insansı robotları üreten Akın Robotics firması Konya'dadır.",
+    "opta": "Adana",
+    "optb": "İzmir",
+    "optc": "Ankara",
+    "optd": "Konya",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Zeugma Mozaik Müzesi nerededir?",
+    "detail": "Dünya'nın en büyük mozaik müzesi olan Zeugma Mozaik Müzesi, Gaziantep'te yer alır. En nadide parçası M.Ö. 2. yüzyıla ait 'Çingene Kızı' olarak bilinen moziktir.",
+    "opta": "Gaziantep",
+    "optb": "Mardin",
+    "optc": "Bursa",
+    "optd": "Şanlıurfa",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "İlk kadın başbakanımız kimdir?",
+    "detail": "İlk kadın başbakanımız ekonomist, akademisyen, siyasetçi Tansu Çiller'dir. Başbakan olduğu dönemde Türkiye'nin içinde olduğu pasif savaş nedeniyle TSK'nın silahlarının modernleştirilmesini ve PKK'nın ABD tarafından terör örgütü kabul edilmesini sağlamıştır.",
+    "opta": "Türkan Akyol",
+    "optb": "Tansu Çiller",
+    "optc": "Lale Aytaman",
+    "optd": "Meral Akşener",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Cumhuriyet döneminin ilk hava harp şehidi kimdir?",
+    "detail": "Cumhuriyet dönemi ilk hava harp şehidimiz olan Cengiz Topel, 1964'te Türk Hava Kuvvetleri'nin Kıbrıs'ta düzenlediği uyarı uçuşunda, uçağı Rum uçaksavarlar tarafından vurulunca paraşütle atladı ve esir düştü. Rumlar tarafından işkenceye maruz kaldı ve şehit oldu.",
+    "opta": "Rauf Denktaş",
+    "optb": "Vecihi Hürkuş",
+    "optc": "Cengiz Topel",
+    "optd": "Eşref Bitlis",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Dünya'nın en derin çukuru hangisidir?",
+    "detail": "En derin noktası deniz seviyesinden 10,994 m derinden olan Mariana Çukuru Batı Pasifik'te Japonya ve Endonezya'nın arasındadır.",
+    "opta": "Mirny Çukuru",
+    "optb": "Kimberley Çukuru",
+    "optc": "Bingham Kanyonu",
+    "optd": "Mariana Çukuru",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "2022 yılında bütün nükleer santrallerini kapatacağını açıklayan ülke hangisidir?",
+    "detail": "2020 yılında Almanya'da aktif olan 18 nükleer santral Almanya'nın toplam enerji ihtiyacının %28'ini karşılamaktadır. 2022 yılında ülke yenilenebilir enerji kaynaklarına dönecek ve nükleer santralleri tamamen kapatacaktır.",
+    "opta": "Almanya",
+    "optb": "İsviçre",
+    "optc": "Fransa",
+    "optd": "Japonya",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Dünya'nın ilk modern müzik kitabının yazarı kimdir?",
+    "detail": "Dünya'nın ilk modern müzik kitabını yazan kişi Farabi'dir. Kitabın adı ise 'El Kitab-ı Musiki Kebir'dir.",
+    "opta": "Gazali",
+    "optb": "Farabi",
+    "optc": "Fuzuli",
+    "optd": "Itri",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Türkiye tarihinin en uzun süre gören yapan başbakanı kimdir?",
+    "detail": "İsmet İnönü, 16 yıl 4 ay süreyle en uzun görev yapmış başbakanımızdır.",
+    "opta": "Recep Tayyip Erdoğan",
+    "optb": "Adnan Menderes",
+    "optc": "İsmet İnönü",
+    "optd": "Süleyman Demirel",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "2010 yılında Arap Baharı'nın başladığı ülke hangisidir?",
+    "detail": "Muhammed Buazzizi'nin kendisini yakmasıyla Tunus'ta Arap Baharı başlamıştır.",
+    "opta": "Cezayir",
+    "optb": "Libya",
+    "optc": "Fas",
+    "optd": "Tunus",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "47. Uluslararası Emmy Ödülleri'nde Şahsiyet filmi ile en iyi erkek oyuncu ödülünü alan oyuncumuz kimdir?",
+    "detail": "Haluk Bilginer 47. Uluslararası Emmy Ödülleri'nde en iyi erkek oyuncu ödülünü alarak bu ödülü alan ilk Türk olmuştur.",
+    "opta": "Haluk Bilginer",
+    "optb": "Murat Yıldırm",
+    "optc": "Halit Ergenç",
+    "optd": "Yılmaz Erdoğan",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "NATO ülkesi olduğu halde ordusu bulunmayan ülke hangisidir?",
+    "detail": "İzlanda'nın NATO ülkesi olmasına rağmen ordusu yoktur.",
+    "opta": "İsveç",
+    "optb": "İzlanda",
+    "optc": "İsviçre",
+    "optd": "Belçika",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Mostar Köprüsü'nün mimarı kimdir?",
+    "detail": "Mimar Sinan'ın öğrencisi Mimar Hayrettin tarafından inşa edilen Mostar Köprüsü 1993'te Boşnak-Hırvat Savaşı'nda Hırvatlar tarafından yıkıldı. 2004'te yeniden inşa edildi.",
+    "opta": "Mimar Agop Balyan",
+    "optb": "Mimar Kemalettin",
+    "optc": "Mimar Hayrettin",
+    "optd": "Mimar Sinan",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Şehzadeler Şehri olarak bilinen ilimiz hangisidir?",
+    "detail": "Şehzadeler Şehri olarak bilinen şehrimiz Manisa'dır. Fatih Sultan Mehmet ve Kanuni Sultan Süleyman başta olamk üzere birçok şehzade bu ilmizde yetişmiştir.",
+    "opta": "Bursa",
+    "optb": "Amasya",
+    "optc": "Trabzon",
+    "optd": "Manisa",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Dünya'nın ilk bilgisayarının adı nedir?",
+    "detail": "Dünyanın ilk bilgisayarı ENIAC bir 167 metrekare alana sığan bu bilgisayarın ağırlığı 30 tondu.",
+    "opta": "ENIAC",
+    "optb": "PIC16F877A",
+    "optc": "Commodore 64",
+    "optd": "Athlon 64",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Aşağıdaki illerden hangisi Mayıs 2020'de Doğu Karadeniz Projesi'ne dahil edilmiştir?",
+    "detail": "Amasya ve Çorum Doğu Karadeniz Projesi'ne dahil edilmiştir. Bu proje bölgenin kaynaklarını değerlendirerek yaşam kalitesi ve gelir düzeyini artırmak üzerinedir.",
+    "opta": "Erzincan",
+    "optb": "Amasya",
+    "optc": "Ardahan",
+    "optd": "Sinop",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Yüzölçümü bakımından Dünya'nın en küçük ülkesi hangisidir?",
+    "detail": "Yüzölçümü bakımından Dünya'nın en küçük ülkesi Vatikan, en büyüğü Rusya'dır.",
+    "opta": "Yeni Zellanda",
+    "optb": "Angola",
+    "optc": "Vatikan",
+    "optd": "Belarus",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Yüzölçümü bakımından Dünya'nın en büyük ülkesi hangisidir?",
+    "detail": "Yüzölçümü bakımından Dünya'nın en küçük ülkesi Vatikan, en büyüğü Rusya'dır.",
+    "opta": "Kanada",
+    "optb": "Çin",
+    "optc": "ABD",
+    "optd": "Rusya",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Dünya'nın klonlanan ilk koyununun adı nedir?",
+    "detail": "Dünya'nın klonlanan ilk koyununun adı Dolly, Türkiye'nin klonlanan ilk koyununun adı Oyalı'dır.",
+    "opta": "Dolly",
+    "optb": "Margaret",
+    "optc": "Lucky",
+    "optd": "Curiosity",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Türkiye'nin klonlanan ilk koyununun adı nedir?",
+    "detail": "Dünya'nın klonlanan ilk koyununun adı Dolly, Türkiye'nin klonlanan ilk koyununun adı Oyalı'dır.",
+    "opta": "Yastık",
+    "optb": "Oyalı",
+    "optc": "Fındık",
+    "optd": "Bambu",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Nobel Edebiyat Ödülü'nü kazanan ilk Türk yazar kimdir?",
+    "detail": "Nobel Edebiyat Ödülü'ne aday gösterilen ilk Türk yazar Yaşar Kemal, ödülü ilk kazanan Türk yazar, Orhan Pamuk'tur.",
+    "opta": "Tevfik Fikret",
+    "optb": "Yaşar Kemal",
+    "optc": "Orhan Pamuk",
+    "optd": "Elif Şafak",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Nobel Edebiyat Ödülü'ne aday gösterilen ilk Türk yazar kimdir?",
+    "detail": "Nobel Edebiyat Ödülü'ne aday gösterilen ilk Türk yazar Yaşar Kemal, ödülü ilk kazanan Türk yazar, Orhan Pamuk'tur.",
+    "opta": "Elif Şafak",
+    "optb": "Orhan Pamuk",
+    "optc": "Tevfik Fikret",
+    "optd": "Yaşar Kemal",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Nur-Sultan hangi ülkenin başkentidir?",
+    "detail": "Nur-Sultan eski adıyla Astana Kazakistanın başkenti ve en büyük ikinci kentidir. En büyüğü ise Almati'dir.",
+    "opta": "Kazakistan",
+    "optb": "Tacikistan",
+    "optc": "Moğolistan",
+    "optd": "Türkmenistan",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Aşağıdakilerden hangisi Ahmet Hamdi Tanpınar'ın 'Beş Şehir' eserinde bahsedilen şehirlerden değildir?",
+    "detail": "Ahmet Hamdi Tanpınar'ın 'Beş Şehir' eserinde İstanbul, Ankara, Konya, Bursa ve Erzurum'dan bahsedilir.",
+    "opta": "Ankara",
+    "optb": "İzmir",
+    "optc": "Konya",
+    "optd": "İstanbul",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "2025 yılında sigara kullanımını tamamen yasaklayacak olan ülke hangisidir?",
+    "detail": "2025 yılında İsveç sigara kullanımını tamamen yasaklayacaktır. İsveç nüfusunun yüzde 11'i sigara içmektedir (Erkeklerin yüzde 8, kadınların yüzde 11'i). Türkiye'de ise sigara içme oranı yüzde 30'dur.",
+    "opta": "Belçika",
+    "optb": "Hollanda",
+    "optc": "İsveç",
+    "optd": "İsviçre",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Okmeydanı Araştırma Hastanesi'ne, ilk korona şehitlerimizden hangi doktorumuzun adı verilmiştir?",
+    "detail": "COVID-19 pandemisi sırasında Türkiye'de görülen ilk vakalara bakan Cemil Taşçıoğlu, bu muayeneler sırasında virüs kaptı. Uzun süre tedavi gören hocamız 1 Nisan 2020'de vefat etti.",
+    "opta": "Mehmet Ceylan",
+    "optb": "Mehmet Öz",
+    "optc": "Ömer Özkan",
+    "optd": "Cemil Taşçıoğlu",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "'Tarihçilerin Kutbu' olarak bilinen ünlü tarihçimiz kimdir?",
+    "detail": "Aralarında İlber Ortaylı gibi isimlerin olduğu kişilerin hocası Halil İnalcık, 'Tarihçilerin Kutbu' olarak anılır.",
+    "opta": "Halil İnalcık",
+    "optb": "Mesut Açıkgöz",
+    "optc": "Murat Bardakçı",
+    "optd": "İlber Ortaylı",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Türkiye'nin ilk demir yolu hattı hangi şehirler arası kurulmuştur.",
+    "detail": "Türkiye'nin ilk demir yolu hattı 1866 yılında İzmir-Aydın arasında kurulmuştur.",
+    "opta": "İstanbul-Kocaeli",
+    "optb": "İzmir-Aydın",
+    "optc": "Adana-Mersin",
+    "optd": "Ankara-İstanbul",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Aşağıdakilerden hangisi 2021 yılında kurulan bakanlıklara örnek gösterilebilir?",
+    "detail": "'Aile, Çalışma ve Sosyal Hizmetler Bakanlığı' ayrılarak; 'Aile ve Sosyal Hizmetler Bakanlığı' ile 'Çalışma ve Sosyal Güvenlik Bakanlığı' kurulmuştur.",
+    "opta": "Sanayi ve Teknoloji Bakanlığı",
+    "optb": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+    "optc": "Tarım ve Orman Bakanlığı",
+    "optd": "Ulaştırma ve Altyapı Bakanlığı",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Aşağıdakilerden hangisi 2021 yılında kurulan bakanlıklara örnek gösterilebilir?",
+    "detail": "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı' ayrılarak; 'Aile ve Sosyal Hizmetler Bakanlığı' ile 'Çalışma ve Sosyal Güvenlik Bakanlığı' kurulmuştur.",
+    "opta": "Ulaştırma ve Altyapı Bakanlığı",
+    "optb": "Tarım ve Orman Bakanlığı",
+    "optc": "Aile ve Sosyal Hizmetler Bakanlığı",
+    "optd": "Sanayi ve Teknoloji Bakanlığı",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Türkiye'yi olası Alman işgaline karşı korumayı amaçlayan Çakmak hattı nerede kurulmuştur?",
+    "detail": "Çakmak hattı Çatalca'da kurulmuştur. Olası Alman işgalinde Alman Ordusunun karşısında direnemyeceği Almanların Fransa işgalinde Maginot Hattı'nı geçmesinden anlaşılabilir.",
+    "opta": "Tekirdağ",
+    "optb": "Kırklareli",
+    "optc": "Edirne",
+    "optd": "Çatalca",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Nisan 2021'de BM'nin hazırladığı mutluluk endeksinde hangi ülke ilk 5'te yer almaz?",
+    "detail": "Nisan 2021'de BM mutluluk endeksine göre sırayla Finlandiya, Norveç, Danimarka, İzlanda, İsviçre en mutlu ülkelerdir. Türkiye 74. sıradadır.",
+    "opta": "Almanya",
+    "optb": "Norveç",
+    "optc": "İsveç",
+    "optd": "Finlandiya",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "25 Nisan 2021'de Azerbaycan'a karşı kaybedilen savaş sonucu baskılara dayanamayıp istifa eden Ermenistan başbakanı kimdir?",
+    "detail": "Nikol Paşinyan Azerbaycan mağlubiyeti sonrası Ermeni milliyetçiler tarafından hainlikle suçlanmış baskılara dayanamayarak istifa etmiştir.",
+    "opta": "Robert Koçaryan",
+    "optb": "Nikol Paşinyan",
+    "optc": "Vazgen Manukyan",
+    "optd": "Andranik Markaryan",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "15 Nisan 2021'de vefat eden eski başbakanımız kimdir?",
+    "detail": "20. TC Başbakanı Yıldırım Akbulut, Anavatan Partisi kurucularındandır. 15 Nisan 2021'de vafat etmiştir.",
+    "opta": "Süleyman Demirel",
+    "optb": "Mesut Yılmaz",
+    "optc": "Yıldırım Akbulut",
+    "optd": "Bülent Ulusu",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "30 Ekim 2020'de vefat eden eski başbakanımız kimdir?",
+    "detail": "1991-1999 yılları arasında 3 kez başbakanlık yapan Mesut Yılmaz, 30 Ekim 2020'de vefat etmiştir. 3 yıl önce vefat eden oğlu Yavuz Yılmaz'ın yanına defnedilmiştir.",
+    "opta": "Yıldırım Akbulut",
+    "optb": "Erdal inönü",
+    "optc": "Süleyman Demirel",
+    "optd": "Mesut Yılmaz",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "8 Nisan 2021'de imzalanan Cumhurbaşkanlığı Genelgesi'ne göre 8 Nisan ne günü olarak kutlanacaktır?",
+    "detail": "8 Nisan, Dünya Romanlar Günü ilan edilmiştir.",
+    "opta": "Dünya Romanlar Günü",
+    "optb": "Dünya Hacı Bektaş-ı Veli Günü",
+    "optc": "Dünya Mevlana Günü",
+    "optd": "Dünya Sağlık Emekçileri Günü",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "4 Nisan 2021'de Kosova Cumhurbaşkanı seçilen kişi kimdir?",
+    "detail": "Vyosa Osmani, Haşim Taçi'nin Lahey'de Uluslararası Ceza Mahkemesi'ndeki davası öncesi istifa etmesinden sonra bu görevi üstlenmiş, 4 Nisan 2021'de meclis seçimi ile resmi olarak cumhurbaşkanı olmuştur.",
+    "opta": "Vyosa Osmani",
+    "optb": "Haşim Taçi",
+    "optc": "Fatmir Sejdiu",
+    "optd": "Atifete Jahjaga",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Nisan 2021'de 93. Oscar Ödülleri'nde seçilen en iyi film hangisi seçilmiştir?",
+    "detail": "93. Oscar Ödülleri'nde en iyi film Nomadland, aktör Anthony Hopkins, aktris France McDormand, yönetmen Chloe Zhao seçilmiştir.",
+    "opta": "Gangs of New York",
+    "optb": "Nomadland",
+    "optc": "Joker",
+    "optd": "Birdman",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Nisan 2021'de 93. Oscar Ödülleri'nde seçilen en iyi aktör kimdir?",
+    "detail": "93. Oscar Ödülleri'nde en iyi film Nomadland, aktör Anthony Hopkins, aktris France McDormand, yönetmen Chloe Zhao seçilmiştir.",
+    "opta": "Sascha Baron Cohen",
+    "optb": "Daniel Day-Lewis",
+    "optc": "Anthony Hopkins",
+    "optd": "Leonardo DiCaprio",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Nisan 2021'de 93. Oscar Ödülleri'nde seçilen en iyi aktris kimdir?",
+    "detail": "93. Oscar Ödülleri'nde en iyi film Nomadland, aktör Anthony Hopkins, aktris Frances McDormand, yönetmen Chloe Zhao seçilmiştir.",
+    "opta": "Renee Zelweger",
+    "optb": "Emma Stone",
+    "optc": "Charlize Theron",
+    "optd": "Frances McDormand",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Nisan 2021'de 93. Oscar Ödülleri'nde seçilen en iyi yönetmen kimdir?",
+    "detail": "93. Oscar Ödülleri'nde en iyi film Nomadland, aktör Anthony Hopkins, aktris Frances McDormand, yönetmen Chloe Zhao seçilmiştir.",
+    "opta": "Chloe Zhao",
+    "optb": "Christopher Nolan",
+    "optc": "Martin Scorsese",
+    "optd": "Steven Spielberg",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Ocak 2021'de Türk İşbirliği ve Koordinasyon Ajansı (TİKA) başkanı olarak atanan kişi kimdir?",
+    "detail": "Ocak 2021'de TİKA başkanı olarak Serkan Kayalar atanmıştır.",
+    "opta": "Necati Utkan",
+    "optb": "Serkan Kayalar",
+    "optc": "Serdar Çam",
+    "optd": "Hakan Fidan",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "'Yavuz Bahadıroğlu' mahlasını kullanan 21 Ocak 2021'de vefat eden yazarımız kimdir?",
+    "detail": "'Sunguroğlu', 'Buhara Yanıyor' gibi eserlerin sahibi epik hikaye yazarımız Niyazi Birinci (Yavuz Bahadıroğlu), 21 Ocak 2021 de vefat etmiştir.",
+    "opta": "Okay Tiryakioğlu",
+    "optb": "İskender Pala",
+    "optc": "Niyazi Birinci",
+    "optd": "Mustafa Armağan",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Toprak Dede Hayrettin Karaca Türkiye'nin ilk özel arboretumunu hangi ilimizde kurmuştur?",
+    "detail": "TEMA Vakfı kurucusu Hayrettin Karaca Türkiye'nin ilk özel arboretumunu Yalova'da kurmuştur.",
+    "opta": "Trabzon",
+    "optb": "Rize",
+    "optc": "Bursa",
+    "optd": "Yalova",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Ocak 2021'de Nijerya açıklarında korsan saldırısına uğrayan Türk konteyner gemisinin adı nedir?",
+    "detail": "Ocak 2021'de Nijerya açıklarında korsan saldırısına uğrayan Türk konteyner gemisinin adı Mozart'tır.",
+    "opta": "Mozart",
+    "optb": "Ever Given",
+    "optc": "Şanslı S",
+    "optd": "Kısmetim",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Nisan 2021'de Ticaret Bakanı olarak atanan kişi kimdir?",
+    "detail": "Nisan 2021'de Ruhsar Pekcan yerine Ticaret Bakanı olarak Mehmet Muş atanmıştır.",
+    "opta": "Ruhsar Pekcan",
+    "optb": "Mehmet Muş",
+    "optc": "Vedat Bilgin",
+    "optd": "Derya Yanık",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Nisan 2021'de Çalışma ve Sosyal Güvenlik Bakanı olarak atanan kişi kimdir?",
+    "detail": "Nisan 2021'de Çalışma ve Sosyal Güvenlik Bakanlığı'na Zehra Zümrüt Selçuk yerine atanan kişi Vedat Bilgin'dir.",
+    "opta": "Ruhsar Pekcan",
+    "optb": "Mehmet Muş",
+    "optc": "Vedat Bilgin",
+    "optd": "Derya Yanık",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Nisan 2021'de Aile ve Sosyal Hizmetler Bakanlığı'na kim atanmıştır?",
+    "detail": "Nisan 2021'de Aile ve Sosyal Hizmetler Bakanlığı'na Zehra Zümrüt Selçuk Derya Yanık yerine atanmıştır.",
+    "opta": "Ruhsar Pekcan",
+    "optb": "Mehmet Muş",
+    "optc": "Vedat Bilgin",
+    "optd": "Derya Yanık",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Mart 2021 'de TCMB Başkanı olarak atanan kişi kimdir?",
+    "detail": "Mart 2021'de Naci Ağbal yerine TCMB Başkanı olarak atanan kişi Şahap Kavcıoğlu'dur.",
+    "opta": "Şahap Kavcıoğlu",
+    "optb": "Derya Yanık",
+    "optc": "Lütfi Elvan",
+    "optd": "Vedat Bilgin",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "Mart 2021'de Türkiye'nin ilk grafen seri üretim tesisi nerede açılmıştır?",
+    "detail": "Grafen tek katmanlı karbon atomlarının 6 bağ yapması sonucu nano ölçekte düzenli, yüzey alanı / ağırlık oranı yüksek bir materyaldir. Bükülebilir ekranlar, uçak araba yüzey güçlkendirmeleri gibi konularda kullanılacağı öngörülmektedir. Nanografi firmasıın bu tesisi ile Türkiye Dünyada grafeni seri üretebilen 10 ülke arasına girmiştir.",
+    "opta": "Gaziantep",
+    "optb": "Ankara",
+    "optc": "İzmir",
+    "optd": "İstanbul",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Nisan 2021'de Avrupa Halter Şampiyonası'nda 73 kiloda yarışıp kopartmada 160 kilo kaldırarak Avrupa Rekoru kıran ve altın madalya kazanan haltercimiz kimdir?",
+    "detail": "Bu rekortmen haltercimiz Daniyar İsmayilov'dur.",
+    "opta": "Reyhan Arabacıoğlu",
+    "optb": "Nurcan Taylan",
+    "optc": "Daniyar İsmayilov",
+    "optd": "Halil Mutlu",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Mart 2021'de Borsa İstanbul genel müdürü olan kişi kimidr?",
+    "detail": "Korkmaz Enes Ergun, Hakan Atilla'nın istifası nedeniyle boşalan Borsa İstanbul Genel Müdürlüğü'ne Mart 2021'de geçmiştir.",
+    "opta": "Tevfik Eraslan",
+    "optb": "Kemal Derviş",
+    "optc": "Hakan Atilla",
+    "optd": "Korkmaz Enes Ergun",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "'Pardon', 'Geniş Aile' ve 'Seksenler' yapımlarıyla bilinen, Mart 2021'de vefat eden usta oyuncumuz kimdir?",
+    "detail": "Hasan Efendi'nin kavuğuna sahip olup Şevket Çoruh'a devreden usta oyuncu Rasim Öztekin 8Mart 2021'de vafet etmiştir.",
+    "opta": "Rasim Öztekin",
+    "optb": "Ferhan Şensoy",
+    "optc": "Şevket Çoruh",
+    "optd": "Şoray Uzun",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "20 Ocak 2021'de ABD Başkanlığı'na kim seçilmiştir?",
+    "detail": "20 Ocak 2021'de Joe Biden, Donald Trump yerine seçilip 46. ABD Başkanı olmuştur. 78 yaşında seçilmesiyle en yaşlı ABD Başkanı ünvanı Joe Biden'dadır.",
+    "opta": "Kamala Harris",
+    "optb": "Joe Biden",
+    "optc": "Donald Trump",
+    "optd": "Barack Obama",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "Türk asıllı bilim insanları Uğur Şahin ve Özlem Türeci'nin ürettiği koronavirüs aşısının ismi nedir?",
+    "detail": "Uğur Şahin ve Özlem Türeci'nin ürettiği aşının adı BioNTech.",
+    "opta": "Astra Zeneca",
+    "optb": "Sinovac",
+    "optc": "Sputnik V",
+    "optd": "BioNTech",
+    "type": 4,
+    "correct": 4
+  },                    
+  {
+    "que": "Kasım 2020'de vefat eden 'Tanrı'nın Eli' lakaplı efsane Arjantinli futbolcu kimdir?",
+    "detail": "Diego Maradona 25 Kasım 2020'de kalp krizi sonucu vefat etmiştir.",
+    "opta": "Diego Maradona",
+    "optb": "Eric Cantona",
+    "optc": "Hernan Crespo",
+    "optd": "Pele",
+    "type": 4,
+    "correct": 1
+  },                    
+  {
+    "que": "2021 Avrupa Birliği döenm başkanı ülkeler hangileridir?",
+    "detail": "2021 Avrupa Birliği döenm başkanı ülkeler Portekiz ve Slovenya'dır.",
+    "opta": "İsveç ve Yunanistan",
+    "optb": "Portekiz ve Slovenya",
+    "optc": "Almanya ve Estonya",
+    "optd": "İspanya ve Belarus",
+    "type": 4,
+    "correct": 2
+  },                    
+  {
+    "que": "1. Kılıçarslan'ın mezarı hangi ilimizde bulunmuştur?",
+    "detail": "1. Kılıçarslan'nın mezarı Diyarbakır'ın Silvan ilçesinde bulunmuştur.",
+    "opta": "Bursa",
+    "optb": "Erzincan",
+    "optc": "Diyarbakır",
+    "optd": "Malatya",
+    "type": 4,
+    "correct": 3
+  },                    
+  {
+    "que": "Osmanlı tarihinde 'Nemçe' adıyla anılan ülke hangisidir?",
+    "detail": "Nemçe Osmanlı tarihinde Avusturya'ya verilen isimdir. Günümüzde Rusça'da Avusturalya için aynı kelime kullanılmaktadır.",
+    "opta": "Mısır",
+    "optb": "İngiltere",
+    "optc": "Avusturya",
+    "optd": "Lehistan",
+    "type": 4,
+    "correct": 3
+  }                   
+  
 ]
