@@ -6040,7 +6040,7 @@
     "correct": 3
   },    
   {
-    "que": "Aşağıdakilerden hangisi doğrudan İstanbul Hükümeti tarafından çıkarılan isyanlardan biridir?Zile İsyanı",
+    "que": "Aşağıdakilerden hangisi doğrudan İstanbul Hükümeti tarafından çıkarılan isyanlardan biridir?",
     "detail": "İstanbul Hükümeti tarafından doğrudan çıkarılan isyanlar Ahmet Anzavur İsyanı ve Kuvayı İnzibatiye İsyanı'dır.",
     "opta": "Zile İsyanı",
     "optb": "Ahmet Anzavur İsyanı",
@@ -6271,7 +6271,7 @@
   },    
   {
     "que": "Türkiye Devleti'nin ilk anayasası aşağıdakilerden hangisidir?",
-    "detail": "Türkiye Devleti'nin ilk anayasası 1921 Anayasası(Teşkilat-ı Esasiye)'dir.",
+    "detail": "Türkiye Devleti'nin ilk anayasası 1921 Anayasası (Teşkilat-ı Esasiye)'dir.",
     "opta": "1961 Anayasası",
     "optb": "Teşkilat-ı Esasiye",
     "optc": "Kanun-i Esasi",
@@ -7560,7 +7560,7 @@
     "correct": 4
   },    
   {
-    "que": "Nükleer Silahları Azaltma amacıyla imzalanan SALT-1 Antlaşması hangi iki devlet arasında imzalanmıştır?ABD-Kuzey Kore",
+    "que": "Nükleer Silahları Azaltma amacıyla imzalanan SALT-1 Antlaşması hangi iki devlet arasında imzalanmıştır?",
     "detail": "17 Kasım 1969'da SALT-1 Antlaşması ABD ve SSCB arasında imzalanmıştır.",
     "opta": "ABD-Kuzey Kore",
     "optb": "ABD-SSCB",
@@ -7608,12 +7608,7 @@
     "optd": "Almanya",
     "type": 1,
     "correct": 2
-  },    
-
-  
-
-  
-          
+  },         
   {
     "que": "Aşağıdakilerden hangisi Türkiye'nin özel konumu ile alakalı değildir?",
     "detail": "Dört mevsimin belirgin olarak yaşanması Türkiye'nin Orta Kuşak'ta yer alması ile alakalıdır. Mutlak konum ile ilgidir.",
@@ -8435,7 +8430,7 @@
     "correct": 3
   },        
   {
-    "que": "Aşağıdakilerden hangisi Doğu Anadolu Bölgesi'nde yükseltinin fazla olmasının sonuçlarından birisi değildir?Sıcaklık değerlerinin düşük olması",
+    "que": "Aşağıdakilerden hangisi Doğu Anadolu Bölgesi'nde yükseltinin fazla olmasının sonuçlarından birisi değildir?",
     "detail": "Doğu Anadolu Bölgesi'nde yükseltinin fazla olması sebebiyle yağışlar genellikle kar şeklinde düşmektedir.",
     "opta": "Sıcaklık değerlerinin düşük olması",
     "optb": "Yağışların genellikle yağmur şeklinde olması",
@@ -9836,7 +9831,7 @@
     "correct": 3
   },        
   {
-    "que": "Aşağıdakilerden hangisi bir karstik göldür?Akşehir",
+    "que": "Aşağıdakilerden hangisi bir karstik göldür?",
     "detail": "Türkiye'deki karstik göller : Salda, Kestel, Elmalı,Avlan ve Suğla gölüdür.Aşağıdakilerden hangisi bir karstik göldür?Akşehir",
     "opta": "Akşehir",
     "optb": "Salda",
@@ -10836,7 +10831,7 @@
     "correct": 2
   },        
   {
-    "que": "Aşağıdaki şehirlerden hangisinde tarımda makine kullanımı daha kısıtlıdır?Edirne",
+    "que": "Aşağıdaki şehirlerden hangisinde tarımda makine kullanımı daha kısıtlıdır?",
     "detail": "Eğim ve yerşekilleri sebebiyle Hakkari'de tarımda makine kullanımı daha kısıtlıdır.",
     "opta": "Edirne",
     "optb": "Adana",
@@ -11716,7 +11711,7 @@
     "correct": 3
   },                
   {
-    "que": "Doğu Karadeniz, Menteşe Yöresi ve dağlık yörelerde yaygın olarak yapılan hayvancılık türü aşağıdakilerden hangisidr?Büyükbaş hayvancılık",
+    "que": "Doğu Karadeniz, Menteşe Yöresi ve dağlık yörelerde yaygın olarak yapılan hayvancılık türü aşağıdakilerden hangisidr?",
     "detail": "Arıcılık bitki örtüsü çeşitliliği sebebiyle ülkemizin hemen hemen her yerinde yapılır.Doğu Karadeniz, Menteşe Yöresi ve dağlık yörelerarıcılığın yapıldığı yerlerin başında gelir.",
     "opta": "Büyükbaş hayvancılık",
     "optb": "Küçükbaş hayvancılık",
@@ -13977,7 +13972,7 @@
   },                
   {
     "que": "Vakıflar en az kaç gerçek veya tüzel kişi tarafından kurulabilir?",
-    "detail": "Dernekler en az 7 gerçek veya tüzel kişi ile kurabilirken; vakıflar tek kişiyle kurulabilmektedir.",
+    "detail": "Dernekler en az 7 gerçek veya tüzel kişi ile kurabilirken, vakıflar tek kişiyle kurulabilmektedir.",
     "opta": "1",
     "optb": "3",
     "optc": "5",
@@ -18276,7 +18271,7 @@
     "correct": 1
   },                    
   {
-    "que": "'Savaş ve Barış' ve 'Anne Karenina' eserlerinin yazarı Tolstoy'dur.",
+    "que": "'Savaş ve Barış' ve 'Anne Karenina' eserlerinin yazarı kimdir?",
     "detail": "'Savaş ve Barış' ve 'Anne Karenina' eserlerinin yazarı Tolstoy'dur.",
     "opta": "Dostoyevski",
     "optb": "Tolstoy",
@@ -18436,8 +18431,8 @@
     "correct": 2
   },                    
   {
-    "que": "Dünya'da ilk kez 'Yalnızlık ve İntaharı Önleme Bakanlığı' kurulan ülke hangisidir?",
-    "detail": "Yüksek intihar oranlarını önleme amacıyla ilk kez 'Yalnızlık ve İntaharı Önleme Bakanlığı' İngiltere'de kurulmuştur. Akabinde Japonya'da da kurulmuştur.",
+    "que": "Dünya'da ilk kez 'Yalnızlık ve İntiharı Önleme Bakanlığı' kurulan ülke hangisidir?",
+    "detail": "Yüksek intihar oranlarını önleme amacıyla ilk kez 'Yalnızlık ve İntiharı Önleme Bakanlığı' İngiltere'de kurulmuştur. Akabinde Japonya'da da kurulmuştur.",
     "opta": "Japonya",
     "optb": "Fransa",
     "optc": "İngiltere",
@@ -18956,7 +18951,7 @@
     "correct": 1
   },                    
   {
-    "que": "Türkiye'nin ilk demir yolu hattı hangi şehirler arası kurulmuştur.",
+    "que": "Türkiye'nin ilk demir yolu hattı hangi şehirler arası kurulmuştur?",
     "detail": "Türkiye'nin ilk demir yolu hattı 1866 yılında İzmir-Aydın arasında kurulmuştur.",
     "opta": "İstanbul-Kocaeli",
     "optb": "İzmir-Aydın",
