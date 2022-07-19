@@ -430,16 +430,6 @@
     "correct": 2
   },
   {
-    "que": "Günümüzde 'Bakanlar Kurulu' olarak bilinen devlet meselelerinin görüşüldüğü yere İlk Türk devletlerinde ne isim verilmiştir?",
-    "detail": "Kurultay ilk Türk devletlerinde devlet meselelerinin görüşüldüğü yerdir. Kurultayda birçok konu görüşülüp karara bağlanır son söz hakkı hükümdardadır. Hükümdarın yokluğunda kurultaya Aygucı başkanlık yapar.",
-    "opta": "Örgin",
-    "optb": "Kam",
-    "optc": "Toy",
-    "optd": "Meclis",
-    "type": 1,
-    "correct": 3
-  },
-  {
     "que": "İlk Türk devletlerinde vezirlere verilen isim aşağıdakilerden hangisidir?",
     "detail": "Ayuki hükümet demektir.Apa sivil yöneticilere verilen isimdir. Ağılığ hazineden sorumlu kişidir. Aygucı ise vezirlere verilen isimdir.",
     "opta": "Ayuki",
@@ -14959,17 +14949,7 @@
     "optd": "3/5",
     "type": 3,
     "correct": 4
-  },                
-  {
-    "que": "Aşağıdakilerden hangisi erken seçim kararı alabilir?",
-    "detail": "Erken seçim kararını Cumhurbaşkanı ve TBMM alabilir.",
-    "opta": "HSK",
-    "optb": "YSK",
-    "optc": "Cumhurbaşkanı",
-    "optd": "Bakanlar kurulu",
-    "type": 3,
-    "correct": 3
-  },        
+  },                        
   {
     "que": "Erken seçim kararı alındıktan kaç gün sonra seçim yapılır?",
     "detail": "Erken seçim kararı alındıktan 60 gün sonraki ilk pazar günü seçim yapılmaktadır.",
@@ -15059,17 +15039,7 @@
     "optd": "10 asil, 2 yedek",
     "type": 3,
     "correct": 3
-  },        
-  {
-    "que": "Aşağıdakilerden hangisi meclis başkanının görevlerinden birisi değildir?",
-    "detail": "Bakanların atamasını yapmak Cumhurbaşkanı'nın görevidir.",
-    "opta": "Genel kurul görüşmelerini yönetmek",
-    "optb": "Meclis toplantılarına başkanlık etmek",
-    "optc": "Başkanlık Divanına başkanlık etmek",
-    "optd": "Bakanların atamasını yapmak",
-    "type": 3,
-    "correct": 4
-  },                
+  },                        
   {
     "que": "TBMM Başkanı seçimi ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "detail": "Meclis Başkanı seçimi en fazla 4 turda gizli oylama ile seçilir. Meclis toplandığından 5 gün içinde adaylıklar açıklanır ve 5 gün içerisinde seçim yapılır.",
@@ -15279,27 +15249,7 @@
     "optd": "Siyasi partilerin kapatılma davasına bakmak",
     "type": 3,
     "correct": 4
-  },                
-  {
-    "que": "Sayıştay Başkan ve üyelerini seçmek kimin görev yetkileri arasındadır?",
-    "detail": "Sayıştay Başkan ve üyelerini seçmek TBMM'nin görev ve yetkileri arasındadır.",
-    "opta": "Cumhurbaşkanı",
-    "optb": "TBMM Genel Kurulu",
-    "optc": "Anayasa Mahkemesi",
-    "optd": "Bakanlar Kurulu",
-    "type": 3,
-    "correct": 2
-  },        
-  {
-    "que": "RTÜK üyelerinin seçmek kimin görev ve yetkileri arasındadır?",
-    "detail": "RTÜK üyelerinin seçmek TBMM'nin görev ve yetkileri arasındadır.",
-    "opta": "TBMM",
-    "optb": "Cumhurbaşkanı",
-    "optc": "HSK",
-    "optd": "Bakanlar Kurulu",
-    "type": 3,
-    "correct": 1
-  },        
+  },                             
   {
     "que": "Kamu Başdenetçisini seçmek kimin görev ve yetkileri arasındadır?",
     "detail": "Kamu Başdenetçisini seçmek TBMM'nin görev ve yetkileri arasındadır.",
@@ -15309,17 +15259,7 @@
     "optd": "Anayasa Mahkemesi",
     "type": 3,
     "correct": 2
-  },        
-  {
-    "que": "Kanun koymak, değiştirmek ve kaldırmak kimin ve yetkileri arasındadır?",
-    "detail": "Kanun koymak, değiştirmek ve kaldırmak TBMM'nin görev ve yetkileri arasındadır.",
-    "opta": "Cumhurbaşkanı",
-    "optb": "Anayasa Mahkemesi",
-    "optc": "TBMM",
-    "optd": "Bakanlar Kurulu",
-    "type": 3,
-    "correct": 3
-  },                
+  },                      
   {
     "que": "Anayasa değiştirmek kimin görev ve yetkileri arasındadır?",
     "detail": "Anayasa değiştirmek TBMM'nin görev ve yetkileri arasındadır.",
@@ -15429,17 +15369,7 @@
     "optd": "Kamu Başdenetçiliği",
     "type": 3,
     "correct": 1
-  },                
-  {
-    "que": "Aşağıdakilerden hangisi kanun önermeye yetkilidir?",
-    "detail": "Milletvekilleri ve Bakanlar Kurulu kanun önerme yetkisine sahiptirler.",
-    "opta": "Kamu Başdenetçisi",
-    "optb": "Cumhurbaşkanı",
-    "optc": "Bakanlar Kurulu",
-    "optd": "Meclis Başkanı",
-    "type": 3,
-    "correct": 3
-  },        
+  },                       
   {
     "que": "1982 Anayasasına göre yabancı devletlerle ve uluslararası kuruluşlarla yapılacak anlaşmaların onaylanması aşağıdakilerden hangisinin bu anlaşmayı uygun bulmasına bağlıdır?",
     "detail": "1982 Anayasasına göre yabancı devletlerle ve uluslararası kuruluşlarla yapılacak anlaşmaların onaylanması TBMM'nin antlaşmayı uygun bulmasına bağlıdır.",
@@ -15499,17 +15429,7 @@
     "optd": "Yasama dönemi",
     "type": 3,
     "correct": 4
-  },                
-  {
-    "que": "Bütçe yasa tasarılarını kabul etme görevi aşağıdakilerden hangisinindir?",
-    "detail": "Bütçe yasa tasarılarını kabul etme görevi TBMM'nindir.",
-    "opta": "İktidar partisi",
-    "optb": "TBMM",
-    "optc": "Bakanlar Kurulu",
-    "optd": "Cumhurbaşkanı",
-    "type": 3,
-    "correct": 2
-  },        
+  },                       
   {
     "que": "1982 Anayasasına göre cumhurbaşkanı aşağıdaki kanunlardan hangisini meclise geri gönderme yetkisine sahip değildir?",
     "detail": "1982 Anayasasına göre Cumhurbaşkanı bütçe kanununu meclise geri gönderemez.",
@@ -15929,17 +15849,7 @@
     "optd": "Genelkurmay Başkanlığı",
     "type": 3,
     "correct": 3
-  },        
-  {
-    "que": "Milli güvenliğin sağlanmasından ve Silahlı Kuvvetlerin yurt savunmasına hazırlanmasından TBMM'ye karşı kim sorumludur?",
-    "detail": "117. Madde: Başkomutanlık, Türkiye Büyük Millet Meclisinin manevi varlığından ayrılamaz ve Cumhurbaşkanı tarafından temsil olunur. Milli güvenliğin sağlanmasından ve Silahlı Kuvvetlerin yurt savunmasına hazırlanmasından, Türkiye Büyük Millet Meclisine karşı, Bakanlar Kurulu sorumludur.",
-    "opta": "Milli Savunma Bakanı",
-    "optb": "Genelkurmay Başkanı",
-    "optc": "Bakanlar Kurulu",
-    "optd": "Cumhurbaşkanı",
-    "type": 3,
-    "correct": 3
-  },        
+  },            
   {
     "que": "Başkomutanlık görevini TBMM adına aşağıdakilerden hangisi temsil edebilir?",
     "detail": "Başkomutanlık görevini TBMM adına Cumhurbaşkanı temsil edebilir.",
@@ -15959,17 +15869,7 @@
     "optd": "6 ay",
     "type": 3,
     "correct": 4
-  },        
-  {
-    "que": "Aşağıda verilen kişi ve kurumlardan hangisi yürütme kanadı içerisinde yer almaz?",
-    "detail": "Kuvvetler ayrılığı ilkesi sebebiyle TBMM yasama kanadı içerisindedir.Cumhurbaşkanı yürütme kanadı içerisinde ve bağımsız ve tarafsız mahkemeler yargı kanadı içerisindedir.",
-    "opta": "Cumhurbaşkanı",
-    "optb": "Milli Savunma Bakanı",
-    "optc": "Bakanlar Kurulu",
-    "optd": "TBMM",
-    "type": 3,
-    "correct": 4
-  },                
+  },                        
   {
     "que": "1982 Anayasası'na göre savaşta Başkomutanlık görevini kim yapmaktadır?",
     "detail": "1982 Anayasası'na göre Başkomutanlık TBMM adına Cumhurbaşkanı tarafından temsil edilir. Savaş durumunda Başkomutanlık görevini Genelkurmay Başkanı Cumhurbaşkanı adına yürütür.",
