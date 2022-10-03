@@ -2151,13 +2151,13 @@
   },
   {
     "que": "Osmanlı Devleti'nde ülke hükümdar ve ailesinin ortak malıdır anlayışını hangi padişah getirmiştir?",
-    "detail": "Osmanlı Devleti'nde ülke hükümdar ve ailesinin ortak malıdır anlayışını Osman Bey getirmiştir. Ülke hükümdar ve ailesinin ortak malıdır anlayışını 1.Murat , ülke padişahındır anlayışını Fatih Sultan Mehmet getirmiştir. Ülke en büyük erkek tarafından yönetilir anlayışını ise 1.Ahmet getirmiştir.",
+    "detail": "Ülke hükümdar ve ailesinin ortak malıdır anlayışını 1.Murat , ülke padişahındır anlayışını Fatih Sultan Mehmet getirmiştir. Ülke en büyük erkek tarafından yönetilir anlayışını ise 1.Ahmet getirmiştir.",
     "opta": "Osman Bey",
     "optb": "1.Murat",
     "optc": "Fatih Sultan Mehmet",
     "optd": "1.Ahmet",
     "type": 1,
-    "correct": 1
+    "correct": 2
   },    
   {
     "que": "Osmanlı Devleti'nde ülke hükümdar ve oğullarına aittir anlayışını hangi padişah getirmiştir?",
@@ -5097,7 +5097,7 @@
     "optc": "Halıcı Hamdi Bey",
     "optd": "Gazeteci Ahmet Bey",
     "type": 1,
-    "correct": 4
+    "correct": 1
   },    
   {
     "que": "Mustafa Kemal Atatürk hangi savaşta Gazeteci Şerif Bey lakabını kullanmıştır?",
@@ -5911,13 +5911,13 @@
   },    
   {
     "que": "1.TBMM'de Mustafa Kemal Atatürk nereden milletvekili seçilmiştir?",
-    "detail": "1.TBMM döneminde Mustafa Kemal Atatürk Erzurum'dan milletvekili seçilmiştir.",
+    "detail": "1.TBMM döneminde Mustafa Kemal Atatürk Ankara'dan milletvekili seçilmiştir. Son Osmanlı Mebusan Meclisi'ne ise Erzurum'dan seçilmiştir.",
     "opta": "Kayseri",
     "optb": "Erzurum",
     "optc": "Sivas",
     "optd": "Ankara",
     "type": 1,
-    "correct": 2
+    "correct": 4
   },    
   {
     "que": "İstanbul'un işgalini M.Kemal Atatürk'e haber veren kişi kimdir?",
