@@ -14772,13 +14772,13 @@
   },                
   {
     "que": "1982 Anayasası'na göre temel hak ve hürriyetler yalnızca ne ile sınırlandırılabilir?",
-    "detail": "1982 Anayasası'na göre temel hak ve hürriyetler yalnızca anayasa maddelerinde belirtilen sebeplerle sınırlandırılabilir.",
+    "detail": "1982 Anayasası'na göre : Temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir. Bu sınırlamalar, Anayasanın sözüne ve ruhuna, demokratik toplum düzeninin ve lâik Cumhuriyetin gereklerine ve ölçülülük ilkesine aykırı olamaz.",
     "opta": "CBK",
     "optb": "Kanun",
     "optc": "Anayasa",
     "optd": "Genelge",
     "type": 3,
-    "correct": 3
+    "correct": 2
   },        
   {
     "que": "1982 Anayasası'na göre aşağıdakilerden hangisi temel hak ve hürriyetlerin durdurulmasını gerektiren durumlardandır?",
