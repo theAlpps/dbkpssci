@@ -14622,13 +14622,13 @@
   },        
   {
     "que": "Siyasi partilerin TBMM'ye girme barajı yüzde kaçtır?",
-    "detail": "Siyasi partilerin TBMM'ye girme barajı yüzde 10'dur.",
+    "detail": "Siyasi partilerin TBMM'ye girme barajı yüzde 7'dir.",
     "opta": "5",
-    "optb": "8",
+    "optb": "7",
     "optc": "10",
     "optd": "15",
     "type": 3,
-    "correct": 3
+    "correct": 2
   },        
   {
     "que": "Bir siyasi partinin kapatılması için Anayasa Mahkemesi'nde ne kadar oy çoğunluğu aranır?",
