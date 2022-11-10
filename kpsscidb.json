@@ -627,7 +627,7 @@
     "optc": "Yuğ",
     "optd": "Uçmağ",
     "type": 1,
-    "correct": 4
+    "correct": 3
   },
   {
     "que": "İlk Türk devletlerinde 'Mezar' anlamına gelen kelime aşağıdakilerden hangisidir?",
@@ -12445,7 +12445,7 @@
     "detail": "Ülkemizde feldispat madeni, Manisa, Kütahya(Simav), Muğla(Milas)'ta çıkarılmaktadır.",
     "opta": "Van",
     "optb": "Manisa",
-    "optc": "Manisa",
+    "optc": "Adana",
     "optd": "Bitlis",
     "type": 2,
     "correct": 2
@@ -14308,7 +14308,7 @@
     "optc": "1924 Anayasası",
     "optd": "1961 Anayasası",
     "type": 3,
-    "correct": 1
+    "correct": 2
   },        
   {
     "que": "Tek yumuşak ve çerçeve anayasamız hangisidir?",
@@ -15568,7 +15568,7 @@
     "optc": "Kanunları TBMM'ye geri gönderebilir",
     "optd": "Bakanları atar",
     "type": 3,
-    "correct": 1
+    "correct": 2
   },        
   {
     "que": "Aşağıdakilerden hangisi Cumhurbaşkanı'nın görev ve yetkileri arasında değildir?",
@@ -15591,8 +15591,8 @@
     "correct": 2
   },        
   {
-    "que": "Meclis Başkanını seçme görevi TBMM'ye aittir.",
-    "detail": "Aşağıdakilerden hangisi Cumhurbaşkanı'nın görev ve yetkileri arasında değildir?",
+    "que": "Aşağıdakilerden hangisi Cumhurbaşkanı'nın görev ve yetkileri arasında değildir?",
+    "detail": "Meclis Başkanını seçme görevi TBMM'ye aittir.",
     "opta": "Türk Silahlı Kuvvetler Başkomutanlığını temsil eder",
     "optb": "Kanunları yayımlar",
     "optc": "Meclis Başkanını seçer",
@@ -16328,7 +16328,7 @@
     "optc": "8",
     "optd": "12",
     "type": 3,
-    "correct": 4
+    "correct": 1
   },        
   {
     "que": "HSK üyelerinin kaç tanesi Cumhurbaşkanı tarafından seçilir?",
@@ -16858,7 +16858,7 @@
     "optc": "Anayasa Mahkemesi",
     "optd": "Bölge İdare Mahkemeleri",
     "type": 3,
-    "correct": 2
+    "correct": 1
   },                
   {
     "que": "Belediye başkanını geçici olarak görevden uzaklaştırma yetkisi aşağıdakilerden hangisindedir?",
