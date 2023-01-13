@@ -3910,8 +3910,8 @@
     "correct": 4
   },    
   {
-    "que": "Aşağıdakilerden hangisi Osmanlı Devleti'nin İstanbul'un fethi için yapılan hazırlıklardan biri değildir?",
-    "detail": "İstanbul için yapılan hazırlıklardan biri Rumeli Hisarı'nın yapılmasıdır.Anadolu Hisarını ise Yıldırım Bayezid yaptırmıştır.",
+    "que": "Aşağıdakilerden hangisi Osmanlı Devleti'nin Fatih Sultan Mehmet döneminde İstanbul'un fethi için yaptığı hazırlıklardan biri değildir?",
+    "detail": "İstanbul için yapılan hazırlıklardan biri Rumeli Hisarı'nın yapılmasıdır. Anadolu Hisarını ise Yıldırım Bayezid yaptırmıştır.",
     "opta": "Anadolu Hisarı yapıldı.",
     "optb": "Şahi topları döküldü.",
     "optc": "Saldırmazlık antlaşmaları imzalandı.",
@@ -4581,13 +4581,13 @@
   },    
   {
     "que": "Nizam-ı Cedit dönemini sonlandıran isyan aşağıdakilerden hangisidir?",
-    "detail": "Lale Devri Pasarofça Antlaşması ile başlamıştır; 12 sene süren bu dönem Patrona Halil İsyanı ile son bulmuştur.",
+    "detail": "Nizam-ı Cedit dönemi Kabakçı Mustafa İsyanı ile son bulmuştur. İsyan sonucunda III. Selim tahttan indirilerek yerine IV. Mustafa geçirilmiştir.",
     "opta": "Kabakçı Mustafa İsyanı",
     "optb": "Patrona Halil İsyanı",
     "optc": "Şeyh Bedrettin İsyanı",
     "optd": "Şahkulu İsyanı",
     "type": 1,
-    "correct": 2
+    "correct": 1
   },    
   {
     "que": "İlk kalıcı elçilik hangi Osmanlı padişahı döneminde açılmıştır?",
@@ -13718,7 +13718,7 @@
     "optc": "17",
     "optd": "18",
     "type": 3,
-    "correct": 3
+    "correct": 2
   },        
   {
     "que": "Ayırt etme gücünden yoksun olanlar hangi fiil ehliyeti sınıfına girer?",
