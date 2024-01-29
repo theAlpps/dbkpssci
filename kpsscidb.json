@@ -3311,13 +3311,13 @@
   },
   {
     "que": "Osmanlı Devleti'nde ilk bakır parayı hangi padişah çıkarmıştır?",
-    "detail": "Osmanlı Devleti'nde ilk bakır para Osman Bey döneminde akçe adıyla çıkmıştır.",
+    "detail": "Osmanlı Devleti'nde ilk bakır para 1.Murat döneminde akçe adıyla çıkmıştır.",
     "opta": "Osman Bey",
     "optb": "Orhan Bey",
     "optc": "1.Murat",
     "optd": "Fatih Sultan Mehmet",
     "type": 1,
-    "correct": 1
+    "correct": 3
   },    
   {
     "que": "Osmanlı Devleti'nde ilk altın parayı hangi padişah çıkarmıştır?",
@@ -12426,7 +12426,7 @@
     "opta": "Bingöl",
     "optb": "Bilecik",
     "optc": "Bolu",
-    "optd": "Erzurum",
+    "optd": "Eskişehir",
     "type": 2,
     "correct": 4
   },        
@@ -13755,7 +13755,7 @@
     "detail": "Evli bir kişinin eşinden habersiz aile konutu alamaması onu sınırlı ehliyetli sınıfına sokmaktadır.",
     "opta": "Tam ehliyetsizler",
     "optb": "Tam ehliyetliler",
-    "optc": "Sınırlı ehliyetliler",
+    "optc": "Sınırlı ehliyetsizler",
     "optd": "Sınırlı ehliyetliler",
     "type": 3,
     "correct": 4
